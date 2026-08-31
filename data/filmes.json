@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "title": "The Godfather",
+    "description": "The Godfather follows the Corleone family, an Italian American crime dynasty balancing private loyalty with public violence. Don Vito Corleone tries to preserve influence through favors, intimidation, and ritualized family power. Michael Corleone begins as an outsider to the family business, but war, assassination attempts, and revenge pull him into the center of the empire. The film is useful for searches about organized crime, succession, family loyalty, political corruption, moral compromise, and the cost of becoming powerful."
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "description": "The Shawshank Redemption follows Andy Dufresne, a banker wrongly convicted of murdering his wife and her lover. Inside Shawshank Prison, he builds a lasting friendship with Red while quietly resisting a corrupt and dehumanizing institution. The story is less about escape as an action event and more about patience, dignity, literacy, money, memory, and hope over decades. It is strong context for queries about wrongful conviction, prison life, friendship, institutional abuse, long-term planning, and emotional endurance."
+  },
+  {
+    "id": 3,
+    "title": "Pulp Fiction",
+    "description": "Pulp Fiction weaves together criminals, hitmen, a boxer, a mob boss, and small-time robbers in a nonlinear portrait of Los Angeles crime. The film is known for long conversations, sudden violence, pop culture references, dark comedy, and stories that circle back on themselves. Vincent Vega and Jules Winnfield move through absurd and dangerous situations that often become philosophical without losing their street-level tension. It is useful for semantic searches about nonlinear storytelling, gangster cinema, redemption, chance, violence, and stylized dialogue."
+  },
+  {
+    "id": 4,
+    "title": "Inception",
+    "description": "Inception follows Dom Cobb, a professional thief who steals secrets by entering dreams. He is hired to do the opposite: implant an idea inside a corporate heir's subconscious so deeply that the target believes it is his own. The film builds a layered heist across dreams within dreams, where architecture, memory, guilt, time dilation, and grief shape the mission. It works well for queries about dream logic, corporate espionage, subconscious manipulation, ambiguous endings, emotional trauma, and science fiction action."
+  },
+  {
+    "id": 5,
+    "title": "Fight Club",
+    "description": "Fight Club follows an unnamed narrator whose insomnia, consumer exhaustion, and emotional numbness lead him to Tyler Durden. Together they create an underground fight club that begins as physical release and evolves into an anti-consumerist movement with dangerous political consequences. The film examines masculinity, alienation, identity collapse, capitalism, violence, cult behavior, and dissociation. It is especially relevant for searches about unreliable narration, social rebellion, mental health, nihilism, and the split between ordinary life and hidden rage."
+  },
+  {
+    "id": 6,
+    "title": "Forrest Gump",
+    "description": "Forrest Gump follows a kind-hearted man who moves through several decades of American history without fully understanding his influence on the world around him. Forrest encounters war, protest movements, business success, sports fame, and political moments while remaining emotionally tied to Jenny, his mother, and Lieutenant Dan. The film mixes romance, comedy, melodrama, and historical nostalgia through a character defined by innocence and persistence. It is useful for searches about destiny, American culture, disability, Vietnam, friendship, love, and perseverance."
+  },
+  {
+    "id": 7,
+    "title": "The Matrix",
+    "description": "The Matrix follows Neo, a hacker who discovers that everyday reality is a simulated world designed by machines to control humanity. Morpheus and Trinity introduce him to a rebellion fighting from outside the illusion, where knowledge becomes both liberation and danger. The film combines cyberpunk design, martial arts, philosophy, artificial intelligence, prophecy, and questions about free will. It is strong context for queries about simulation theory, virtual reality, machine control, awakening, chosen-one narratives, and resistance against systems."
+  },
+  {
+    "id": 8,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "The Fellowship of the Ring begins Frodo Baggins's journey after he inherits the One Ring, an object tied to the dark lord Sauron. A fellowship of hobbits, humans, an elf, a dwarf, and a wizard forms to carry the ring toward destruction before it corrupts Middle-earth. The film introduces epic fantasy through friendship, temptation, ancient evil, sacrifice, and the burden placed on ordinary people. It is useful for searches about magical rings, heroic quests, fellowship, elves, hobbits, wizards, and fantasy worldbuilding."
+  },
+  {
+    "id": 9,
+    "title": "The Lord of the Rings: The Two Towers",
+    "description": "The Two Towers follows the fractured heroes after the Fellowship breaks apart. Frodo and Sam continue toward Mordor with the unstable guidance of Gollum, while Aragorn, Legolas, and Gimli become involved in the defense of Rohan. The Battle of Helm's Deep provides a major portrait of military desperation, courage, and alliance under overwhelming threat. The film is useful for searches about divided quests, war strategy, corrupted guides, loyalty, siege battles, Saruman, and the growth of hope during crisis."
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "The Return of the King concludes the war for Middle-earth by combining intimate sacrifice with enormous battlefield stakes. Frodo and Sam approach Mount Doom as the Ring becomes heavier psychologically and physically, while Aragorn accepts the responsibilities of kingship. The film explores courage, temptation, mercy, friendship, political restoration, and the emotional aftermath of victory. It is strong context for queries about epic endings, final battles, heroic sacrifice, kingship, Mordor, and the destruction of a corrupting artifact."
+  },
+  {
+    "id": 11,
+    "title": "The Dark Knight",
+    "description": "The Dark Knight places Batman against the Joker, a criminal who treats chaos as a weapon and morality as a social experiment. Gotham City becomes a testing ground for fear, surveillance, justice, public trust, and the limits of heroic restraint. Harvey Dent's fall from idealistic prosecutor to vengeful figure shows how symbols can be corrupted under pressure. The film is useful for searches about superhero crime drama, anarchy, urban terrorism, moral dilemmas, vigilantism, sacrifice, and psychological villains."
+  },
+  {
+    "id": 12,
+    "title": "Schindler's List",
+    "description": "Schindler's List dramatizes Oskar Schindler's transformation from opportunistic businessman to rescuer of Jewish workers during the Holocaust. The film shows how bureaucracy, profit, terror, and personal courage intersect under Nazi occupation. Its emotional force comes from the contrast between industrialized cruelty and individual acts of protection. It is important context for searches about World War II, genocide, Holocaust memory, moral responsibility, survival, industrial labor, and the difference one compromised person can still make."
+  },
+  {
+    "id": 13,
+    "title": "Goodfellas",
+    "description": "Goodfellas follows Henry Hill's rise inside the Italian American mob and his eventual collapse under paranoia, drugs, betrayal, and law enforcement pressure. The film presents organized crime as seductive, funny, violent, and exhausting rather than glamorous in a simple way. It focuses on everyday rituals of gangsters, loyalty codes, money, restaurants, status, and sudden brutality. It is useful for searches about mafia life, crime biography, New York gangsters, informants, cocaine, betrayal, and criminal decline."
+  },
+  {
+    "id": 14,
+    "title": "Interstellar",
+    "description": "Interstellar follows astronauts who travel through a wormhole to search for a habitable planet as Earth faces ecological collapse. Cooper leaves his daughter Murph behind, and their relationship becomes central to the film's treatment of time, gravity, love, and sacrifice. The story blends hard science concepts with emotional melodrama, including relativity, black holes, dust storms, and survival of the species. It is strong context for searches about space exploration, wormholes, time dilation, parent-child bonds, climate crisis, and humanity's future."
+  },
+  {
+    "id": 15,
+    "title": "The Silence of the Lambs",
+    "description": "The Silence of the Lambs follows Clarice Starling, an FBI trainee investigating a serial killer while consulting the imprisoned psychiatrist Hannibal Lecter. Clarice's intelligence, vulnerability, and trauma become part of a psychological duel with Lecter, who offers insight while manipulating every conversation. The film mixes procedural investigation, horror, behavioral profiling, gender pressure, and intimate menace. It is useful for searches about serial killers, FBI profiling, cannibal villains, psychological suspense, trauma, and the relationship between investigator and monster."
+  },
+  {
+    "id": 16,
+    "title": "The Green Mile",
+    "description": "The Green Mile is set on death row, where prison guard Paul Edgecomb meets John Coffey, a condemned man with mysterious healing powers. The story combines supernatural elements with prison drama, moral doubt, racism, cruelty, and compassion. John Coffey's innocence and suffering force the guards to question punishment, justice, and mercy. It is useful for searches about death penalty, miracles, wrongful execution, empathy, spiritual healing, institutional violence, and emotionally heavy drama."
+  },
+  {
+    "id": 17,
+    "title": "Gladiator",
+    "description": "Gladiator follows Maximus, a respected Roman general betrayed by Commodus after the death of Emperor Marcus Aurelius. Reduced to slavery, Maximus becomes a gladiator whose skill in the arena turns him into a symbol against imperial corruption. The film combines revenge, political legitimacy, spectacle, grief, and the longing to reunite with family after death. It works well for searches about ancient Rome, gladiatorial combat, betrayal, tyranny, honor, revenge, and heroic tragedy."
+  },
+  {
+    "id": 18,
+    "title": "The Lion King",
+    "description": "The Lion King follows Simba, a young lion prince who flees after the death of his father Mufasa. Scar manipulates Simba's guilt and seizes power, turning the Pride Lands into a broken kingdom. Simba's return becomes a story about grief, identity, responsibility, ancestry, and the cycle of life. The film is useful for searches about Disney animation, royal succession, animal kingdom drama, family loss, coming of age, and reclaiming a rightful place."
+  },
+  {
+    "id": 19,
+    "title": "Back to the Future",
+    "description": "Back to the Future follows Marty McFly, a teenager who accidentally travels from 1985 to 1955 in a DeLorean time machine built by Doc Brown. In the past, Marty disrupts his parents' first meeting and risks erasing his own existence. The film turns time travel into a fast, comedic adventure about family history, teenage identity, causality, music, and invention. It is useful for searches about time loops, paradoxes, 1950s culture, science comedy, modified cars, and changing the past."
+  },
+  {
+    "id": 20,
+    "title": "City of God",
+    "description": "City of God portrays the growth of organized crime in a Rio de Janeiro favela across several decades. Buscape tries to escape violence through photography, while other children are pulled into drug trafficking, weapons, status, and revenge. The film shows how poverty, policing, ambition, and childhood exposure to brutality shape different futures. It is strong context for searches about Brazilian cinema, favela life, urban crime, photography, social inequality, youth violence, and survival in marginalized communities."
+  },
+  {
+    "id": 21,
+    "title": "Parasite",
+    "description": "Parasite follows the poor Kim family as they gradually infiltrate the household of the wealthy Park family through deception and performance. What begins as social satire becomes a tense thriller about class dependence, resentment, architecture, smell, weather, and hidden spaces. The house itself becomes a map of inequality, with upstairs luxury and buried desperation below. It is useful for searches about class conflict, black comedy, Korean cinema, social mobility, domestic labor, and violent reversals."
+  },
+  {
+    "id": 22,
+    "title": "Amelie",
+    "description": "Amelie follows a shy young woman in Paris who decides to improve the lives of strangers through small secret interventions. Her imagination transforms ordinary apartments, cafes, train stations, and photo booths into a playful emotional puzzle. While helping others reconnect, she must confront her own loneliness and fear of intimacy. The film is strong context for searches about whimsical romance, Paris, kindness, magical realism, introversion, color-rich visual style, and gentle emotional transformation."
+  },
+  {
+    "id": 23,
+    "title": "The Usual Suspects",
+    "description": "The Usual Suspects revolves around Verbal Kint's account of how a group of criminals became involved with the terrifying figure Keyser Soze. The film uses interrogation, flashbacks, unreliable narration, and criminal mythology to keep the truth unstable. Its central pleasure is the way details are rearranged by the final revelation. It is useful for searches about crime mystery, twist endings, deceptive storytelling, police questioning, hidden identity, and legendary villains."
+  },
+  {
+    "id": 24,
+    "title": "Se7en",
+    "description": "Se7en follows two detectives investigating murders staged around the seven deadly sins. Somerset's weary intelligence contrasts with Mills's impatience as they move through a grim, rain-soaked city defined by moral decay. The killer uses each crime as a message about guilt, sin, punishment, and social rot. The film is strong context for searches about serial killer thrillers, religious symbolism, detective partnerships, urban darkness, psychological horror, and devastating endings."
+  },
+  {
+    "id": 25,
+    "title": "Saving Private Ryan",
+    "description": "Saving Private Ryan opens with the brutal D-Day landing at Omaha Beach and then follows soldiers sent to find one surviving paratrooper. The mission raises painful questions about whether one life is worth risking many others. Captain Miller's squad encounters fear, duty, resentment, sacrifice, and the randomness of combat. It is useful for searches about World War II, Normandy, battlefield realism, rescue missions, military ethics, trauma, and brotherhood among soldiers."
+  },
+  {
+    "id": 26,
+    "title": "Joker",
+    "description": "Joker follows Arthur Fleck, an isolated clown and failed comedian living in a decaying Gotham City. Social neglect, mental illness, humiliation, poverty, and media spectacle push him toward a violent persona that others begin to mythologize. The film treats villain origin as a mix of personal breakdown and public unrest. It is useful for searches about comic book villains, psychological collapse, social alienation, Gotham, class resentment, unreliable perception, and dark character studies."
+  },
+  {
+    "id": 27,
+    "title": "The Truman Show",
+    "description": "The Truman Show follows Truman Burbank, a man whose entire life has unknowingly been staged and broadcast as television entertainment. Small glitches in his controlled town reveal that his marriage, friendships, job, and environment are manufactured. The story becomes a satire of media, surveillance, advertising, reality television, and the human need for authentic choice. It is useful for searches about artificial reality, hidden cameras, free will, manipulation, celebrity culture, and escaping a designed world."
+  },
+  {
+    "id": 28,
+    "title": "Whiplash",
+    "description": "Whiplash follows Andrew Neiman, an ambitious jazz drummer trying to become one of the greats. His teacher Fletcher uses intimidation, humiliation, and psychological abuse while claiming that greatness requires extreme pressure. The film turns rehearsal rooms and competitions into battlefields of ego, discipline, fear, and obsession. It is useful for searches about jazz, drumming, perfectionism, abusive mentorship, artistic ambition, music conservatories, and the cost of excellence."
+  },
+  {
+    "id": 29,
+    "title": "Spirited Away",
+    "description": "Spirited Away follows Chihiro, a young girl trapped in a spirit world after her parents are transformed into pigs. She must work in a bathhouse ruled by a powerful witch while learning courage, discipline, memory, and compassion. The film blends Japanese folklore, environmental themes, labor, identity loss, and dreamlike visual imagination. It is strong context for searches about Studio Ghibli, spirits, coming of age, magic bathhouses, childhood fear, and transformation."
+  },
+  {
+    "id": 30,
+    "title": "The Shining",
+    "description": "The Shining follows Jack Torrance, a struggling writer who becomes winter caretaker of the isolated Overlook Hotel. The building's violent past, supernatural presence, and Jack's own resentment merge into a threat against his wife Wendy and son Danny. The film creates horror through space, repetition, family tension, addiction, psychic visions, and claustrophobic isolation. It is useful for searches about haunted hotels, psychological horror, cabin fever, domestic violence, writers, and iconic horror imagery."
+  },
+  {
+    "id": 31,
+    "title": "Django Unchained",
+    "description": "Django Unchained follows Django, an enslaved man freed by the German bounty hunter Dr. King Schultz. Django learns the bounty trade while searching for his wife Broomhilda, who is held on a brutal plantation. The film mixes western revenge, slavery, dark comedy, stylized violence, and racial power dynamics. It is useful for searches about bounty hunters, plantations, rescue missions, revenge westerns, slavery in America, and Tarantino dialogue."
+  },
+  {
+    "id": 32,
+    "title": "Inglourious Basterds",
+    "description": "Inglourious Basterds reimagines World War II through intersecting plots to destroy Nazi leadership inside a French cinema. The story follows Jewish American soldiers, the vengeful theater owner Shosanna, and the terrifyingly polite officer Hans Landa. Language, performance, accents, cinema, and identity become tools of survival and violence. It is useful for searches about alternate history, Nazis, resistance, espionage, revenge, undercover tension, and film as a weapon."
+  },
+  {
+    "id": 33,
+    "title": "The Big Lebowski",
+    "description": "The Big Lebowski follows Jeff Lebowski, known as the Dude, after he is mistaken for a wealthy man with the same name. A ruined rug, a kidnapping scheme, bowling friends, nihilists, artists, and criminals pull him into a mystery he barely wants to solve. The comedy comes from his relaxed personality colliding with increasingly absurd noir situations. It is useful for searches about cult comedy, mistaken identity, bowling, Los Angeles weirdness, ransom plots, and laid-back antiheroes."
+  },
+  {
+    "id": 34,
+    "title": "Reservoir Dogs",
+    "description": "Reservoir Dogs follows a group of criminals after a diamond heist collapses into bloodshed and suspicion. The surviving thieves gather in a warehouse and begin to suspect that one of them is an undercover police officer. The film uses fragmented chronology, tense dialogue, violence, pop music, and shifting loyalties. It is useful for searches about failed robberies, criminal paranoia, undercover cops, betrayal, warehouse standoffs, and independent crime cinema."
+  },
+  {
+    "id": 35,
+    "title": "2001: A Space Odyssey",
+    "description": "2001: A Space Odyssey traces human evolution from prehistoric apes to a mysterious mission near Jupiter. Monoliths appear at key moments, suggesting contact with an intelligence beyond human understanding. Aboard the spacecraft, the computer HAL 9000 shifts from calm assistant to deadly obstacle, raising questions about machine consciousness and control. The film is useful for searches about philosophical science fiction, artificial intelligence, space travel, evolution, cosmic mystery, and visual storytelling."
+  },
+  {
+    "id": 36,
+    "title": "Taxi Driver",
+    "description": "Taxi Driver follows Travis Bickle, a lonely Vietnam veteran driving a cab through nighttime New York. He grows disgusted by the city's violence, sex work, politics, and perceived moral decay while becoming increasingly unstable. His desire to cleanse the world turns into a violent fantasy of purpose. The film is useful for searches about urban alienation, antiheroes, mental instability, vigilantism, loneliness, postwar trauma, and 1970s New York."
+  },
+  {
+    "id": 37,
+    "title": "Apocalypse Now",
+    "description": "Apocalypse Now follows Captain Willard on a secret mission during the Vietnam War to assassinate Colonel Kurtz. Traveling upriver into the jungle, Willard encounters surreal violence, military absurdity, colonial echoes, and psychological breakdown. Kurtz becomes both target and mirror, representing the war's moral collapse. The film is useful for searches about Vietnam, jungle warfare, madness, imperialism, river journeys, military horror, and the darkness of power."
+  },
+  {
+    "id": 38,
+    "title": "Citizen Kane",
+    "description": "Citizen Kane investigates the life of Charles Foster Kane after his final word, Rosebud, becomes a journalistic mystery. Through interviews and fragmented memories, the film reconstructs Kane's rise as a newspaper magnate, political figure, collector, and lonely man. Its structure explores how wealth and public influence fail to recover private loss. It is useful for searches about media power, memory, ambition, childhood trauma, nonlinear biography, and cinematic innovation."
+  },
+  {
+    "id": 39,
+    "title": "Pan's Labyrinth",
+    "description": "Pan's Labyrinth follows Ofelia, a young girl in post-Civil War Spain living under the authority of a brutal fascist stepfather. She discovers a dark fairy-tale world that offers tasks, monsters, and the possibility of a hidden identity. The film contrasts political violence with fantasy, showing imagination as both refuge and moral test. It is useful for searches about dark fantasy, fascism, childhood, Spanish history, fauns, resistance, and sacrifice."
+  },
+  {
+    "id": 40,
+    "title": "Memento",
+    "description": "Memento follows Leonard Shelby, a man unable to form new memories after a traumatic attack. He investigates his wife's murder using Polaroid photos, tattoos, handwritten notes, and routines that may be manipulated by others. The reverse structure forces the viewer to experience confusion, suspicion, and dependency on incomplete evidence. It is useful for searches about memory loss, revenge, unreliable perception, nonlinear editing, tattoos, investigation, and self-deception."
+  },
+  {
+    "id": 41,
+    "title": "Die Hard",
+    "description": "Die Hard follows John McClane, a New York police officer trapped inside a Los Angeles skyscraper during a Christmas party. Terrorists led by Hans Gruber take hostages, including McClane's estranged wife, while hiding a sophisticated robbery plan. McClane survives through improvisation, pain, humor, and knowledge of the building. It is useful for searches about action thrillers, hostage situations, Christmas movies, skyscrapers, lone cops, heists, and practical heroism."
+  },
+  {
+    "id": 42,
+    "title": "Terminator 2: Judgment Day",
+    "description": "Terminator 2: Judgment Day follows Sarah Connor and her son John, the future leader of human resistance against machines. A reprogrammed Terminator protects John from the T-1000, a liquid-metal assassin sent from the future. The film combines chase action, family bonds, nuclear anxiety, artificial intelligence, and the possibility of changing fate. It is useful for searches about time travel, killer robots, Skynet, apocalypse, protective machines, and destiny versus choice."
+  },
+  {
+    "id": 43,
+    "title": "Alien",
+    "description": "Alien follows the crew of the commercial starship Nostromo after they answer a mysterious signal on a remote planet. A hostile organism enters the ship, grows through terrifying life stages, and hunts the crew in confined industrial corridors. Ripley emerges as a rational survivor while corporate priorities and biological horror intensify the threat. The film is useful for searches about space horror, xenomorphs, alien creatures, isolation, survival, body horror, and science fiction suspense."
+  },
+  {
+    "id": 44,
+    "title": "Blade Runner",
+    "description": "Blade Runner follows Rick Deckard, a specialist assigned to hunt escaped replicants in a rain-soaked future Los Angeles. The replicants seek longer lives and meaning, which complicates the line between human emotion and artificial existence. The film explores memory, empathy, identity, corporate power, urban decay, and noir atmosphere. It is useful for searches about cyberpunk, androids, artificial intelligence, dystopian cities, implanted memories, and philosophical science fiction."
+  },
+  {
+    "id": 45,
+    "title": "Psycho",
+    "description": "Psycho follows Marion Crane after she steals money and stops at the isolated Bates Motel. Norman Bates appears shy and polite, but his relationship with his mother hides a violent psychological secret. The film transforms a crime story into horror through voyeurism, guilt, identity fracture, and sudden narrative disruption. It is useful for searches about Hitchcock, motel horror, shower scene, split personality, suspense, murder, and classic psychological thrillers."
+  },
+  {
+    "id": 46,
+    "title": "Star Wars: Episode IV - A New Hope",
+    "description": "Star Wars: A New Hope follows Luke Skywalker as he leaves his desert home and joins the Rebel Alliance against the Galactic Empire. With Leia, Han Solo, Obi-Wan Kenobi, and two droids, he learns about the Force and confronts the Death Star. The film blends space opera, mythic adventure, political rebellion, fantasy, and swashbuckling action. It is useful for searches about Jedi, Darth Vader, lightsabers, rebellion, space battles, and hero's journey stories."
+  },
+  {
+    "id": 47,
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "description": "The Empire Strikes Back deepens the conflict between the Rebel Alliance and the Empire after the destruction of the Death Star. Luke trains with Yoda while Han, Leia, Chewbacca, and C-3PO flee imperial pursuit. Darth Vader becomes more personal and terrifying, leading to one of the most famous family revelations in film. It is useful for searches about Jedi training, Hoth, Cloud City, the dark side, tragic twists, and middle chapters."
+  },
+  {
+    "id": 48,
+    "title": "Raiders of the Lost Ark",
+    "description": "Raiders of the Lost Ark follows Indiana Jones, an archaeologist and adventurer racing Nazis to find the Ark of the Covenant. The film combines ancient traps, religious artifacts, desert expeditions, fistfights, humor, and romance with Marion Ravenwood. Indiana is both scholar and action hero, using knowledge and improvisation under pressure. It is useful for searches about archaeology adventures, lost relics, Nazi villains, treasure hunts, biblical artifacts, and serial-style action."
+  },
+  {
+    "id": 49,
+    "title": "Jurassic Park",
+    "description": "Jurassic Park imagines a theme park where scientists have recreated dinosaurs through genetic engineering. Visitors experience wonder before security failures turn the park into a survival nightmare. The story questions commercial ambition, scientific responsibility, chaos theory, and humanity's illusion of control over nature. It is useful for searches about dinosaurs, DNA, theme parks, velociraptors, Tyrannosaurus rex, science ethics, and creature suspense."
+  },
+  {
+    "id": 50,
+    "title": "Titanic",
+    "description": "Titanic combines a fictional romance with the historical sinking of the RMS Titanic. Jack, a poor artist, and Rose, a wealthy young woman trapped by class expectations, fall in love during the ship's maiden voyage. The disaster turns social hierarchy, courage, cowardice, memory, and survival into a large-scale melodrama. It is useful for searches about shipwrecks, iceberg disasters, forbidden romance, class divisions, historical tragedy, and epic cinema."
+  },
+  {
+    "id": 51,
+    "title": "E.T. the Extra-Terrestrial",
+    "description": "E.T. the Extra-Terrestrial follows Elliott, a lonely boy who befriends an alien stranded on Earth. Elliott and his siblings hide the creature from adults and government agents while trying to help him contact home. The film treats alien contact as a story of childhood empathy, wonder, fear, and farewell rather than invasion. It is useful for searches about friendly aliens, children, bicycles, suburban science fiction, telepathic bonds, and going home."
+  },
+  {
+    "id": 52,
+    "title": "Jaws",
+    "description": "Jaws follows a seaside town threatened by a great white shark during the tourist season. Police chief Brody wants to close the beaches, but local economic pressure keeps people in danger. The final hunt brings Brody, marine biologist Hooper, and shark hunter Quint onto the open water. It is useful for searches about shark attacks, beach towns, suspense, invisible threats, summer tourism, ocean fear, and survival at sea."
+  },
+  {
+    "id": 53,
+    "title": "The Sixth Sense",
+    "description": "The Sixth Sense follows Cole, a frightened boy who says he can see dead people, and Malcolm Crowe, the child psychologist trying to help him. The story blends ghost horror with emotional drama about listening, grief, fear, and unresolved pain. Cole's encounters with the dead become less like random scares and more like requests for help. It is useful for searches about ghosts, child trauma, twist endings, psychologists, supernatural mystery, and grief."
+  },
+  {
+    "id": 54,
+    "title": "A Beautiful Mind",
+    "description": "A Beautiful Mind dramatizes the life of mathematician John Nash, whose brilliance is complicated by schizophrenia and paranoid delusions. The film follows his academic work, marriage to Alicia, struggles with perception, and eventual recognition. It turns abstract mathematical achievement into a story about love, illness, discipline, and survival with a fragile mind. It is useful for searches about mathematics, Nobel Prize, mental illness, hallucinations, academia, and personal resilience."
+  },
+  {
+    "id": 55,
+    "title": "Scent of a Woman",
+    "description": "Scent of a Woman follows Charlie, a student hired to accompany Frank Slade, a blind retired officer with a sharp tongue and self-destructive streak. Their trip to New York becomes a confrontation with pleasure, despair, honor, and moral courage. Frank challenges Charlie's fear while Charlie gives Frank a reason to keep living. It is useful for searches about blindness, mentorship, tango scenes, integrity, school discipline, and unlikely friendship."
+  },
+  {
+    "id": 56,
+    "title": "American Beauty",
+    "description": "American Beauty follows Lester Burnham, a middle-aged suburban man in a crisis of marriage, work, desire, and identity. His rebellion against routine exposes the emptiness and repression inside his family and neighborhood. The film satirizes consumer comfort while moving toward violence, longing, voyeurism, and fragile beauty. It is useful for searches about suburban dysfunction, midlife crisis, appearances, alienation, family secrets, and American social satire."
+  },
+  {
+    "id": 57,
+    "title": "Collateral Beauty",
+    "description": "Collateral Beauty follows Howard, an advertising executive devastated by personal loss and unable to reconnect with work or friends. His grief is explored through encounters with figures representing Love, Time, and Death, whether literal, staged, or emotionally symbolic. The film uses melodrama and allegory to examine mourning, friendship, responsibility, and the search for meaning after tragedy. It is useful for searches about grief, loss, emotional healing, abstract concepts, friendship interventions, and life after trauma."
+  },
+  {
+    "id": 58,
+    "title": "The Pursuit of Happyness",
+    "description": "The Pursuit of Happyness follows Chris Gardner as he struggles with homelessness, unpaid work, single fatherhood, and financial instability. He accepts a competitive unpaid internship while trying to protect his young son from the full weight of poverty. The film emphasizes perseverance, dignity, ambition, exhaustion, and the emotional burden of economic survival. It is useful for searches about poverty, father-son relationships, homelessness, career ambition, sales, internships, and inspirational drama."
+  },
+  {
+    "id": 59,
+    "title": "Cast Away",
+    "description": "Cast Away follows Chuck Noland, a time-obsessed executive stranded alone on a deserted island after a plane crash. He must learn to find water, make fire, build shelter, and endure years without human contact. The volleyball Wilson becomes a companion and symbol of the mind's need for connection. It is useful for searches about survival, isolation, plane crashes, islands, loneliness, primitive skills, and returning to society after trauma."
+  },
+  {
+    "id": 60,
+    "title": "Gravity",
+    "description": "Gravity follows astronaut Ryan Stone after debris destroys her shuttle mission and leaves her drifting in orbit. With limited oxygen and failing communication, she must move between spacecraft while confronting panic, grief, and the will to live. The film turns space into a hostile environment of silence, motion, beauty, and danger. It is useful for searches about astronauts, orbital disasters, survival in space, isolation, oxygen, debris fields, and rebirth imagery."
+  },
+  {
+    "id": 61,
+    "title": "Mad Max: Fury Road",
+    "description": "Mad Max: Fury Road takes place in a post-apocalyptic desert ruled by scarcity, vehicles, cult power, and control over water and bodies. Furiosa escapes with women enslaved by Immortan Joe, and Max becomes part of a relentless road battle for freedom. The film uses practical action, chase structure, visual intensity, and minimal dialogue to tell a liberation story. It is useful for searches about desert action, car chases, post-apocalypse, feminism, survival, war rigs, and rebellion."
+  },
+  {
+    "id": 62,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "description": "Eternal Sunshine of the Spotless Mind follows Joel and Clementine after they erase memories of their failed relationship. During the procedure, Joel relives intimate moments and realizes that pain and beauty are inseparable parts of love. The film uses fragmented memory, surreal spaces, and science fiction to explore romance, regret, identity, and emotional repetition. It is useful for searches about memory erasure, breakups, second chances, nonlinear romance, grief, and intimate science fiction."
+  },
+  {
+    "id": 63,
+    "title": "Groundhog Day",
+    "description": "Groundhog Day follows Phil Connors, a cynical weather reporter trapped in the same day repeating endlessly. What begins as comic inconvenience becomes a spiritual and ethical transformation through selfishness, despair, learning, kindness, and acceptance. The repeated day becomes a laboratory for personal change. It is useful for searches about time loops, repetition, comedy, self-improvement, existential lessons, romance, and living the same day again."
+  },
+  {
+    "id": 64,
+    "title": "Central Station",
+    "description": "Central Station follows Dora, a retired teacher who writes letters for illiterate customers in Rio de Janeiro's central station. She meets Josue, a boy whose mother dies before they can search for his absent father. Their road journey through Brazil transforms distrust into care and exposes loneliness, poverty, faith, and emotional repair. It is useful for searches about Brazilian cinema, road movies, literacy, surrogate motherhood, childhood, and social realism."
+  },
+  {
+    "id": 65,
+    "title": "Elite Squad",
+    "description": "Elite Squad follows Captain Nascimento and BOPE, an elite police unit operating in Rio de Janeiro's violent drug-war environment. The film presents police brutality, corruption, training pressure, moral exhaustion, and the links between middle-class drug use and favela violence. It also follows recruits being shaped by an institution that demands extreme obedience. It is useful for searches about BOPE, police violence, drug trafficking, Rio favelas, corruption, public security, and urban conflict."
+  },
+  {
+    "id": 66,
+    "title": "A Dog's Will",
+    "description": "A Dog's Will follows Joao Grilo and Chico, two poor men from northeastern Brazil who survive through wit, improvisation, and comic deception. The story blends folk comedy, Catholic imagery, cangaceiro violence, social criticism, and a supernatural trial. Its humor often hides serious questions about poverty, sin, mercy, and justice. It is useful for searches about Brazilian comedy, Ariano Suassuna, northeastern culture, faith, trickster characters, forgiveness, and popular storytelling."
+  },
+  {
+    "id": 67,
+    "title": "The Second Mother",
+    "description": "The Second Mother follows Val, a live-in domestic worker in Sao Paulo whose life is structured by invisible class boundaries. When her daughter Jessica arrives, she challenges rules about space, education, intimacy, and obedience inside the employers' home. The film observes inequality through gestures, rooms, food, swimming pools, and social discomfort. It is useful for searches about domestic labor, Brazilian class relations, motherhood, social mobility, household power, and quiet political drama."
+  },
+  {
+    "id": 68,
+    "title": "Bacurau",
+    "description": "Bacurau takes place in a small village in Brazil's backlands that mysteriously disappears from digital maps. The residents discover that political corruption, foreign violence, and technological surveillance are converging against them. The community responds by defending memory, territory, dignity, and collective survival. It is useful for searches about Brazilian genre cinema, political westerns, rural resistance, colonial violence, surveillance, community defense, and speculative thrillers."
+  },
+  {
+    "id": 69,
+    "title": "I'm Still Here",
+    "description": "I'm Still Here follows a Brazilian family marked by the violence of the military dictatorship and the forced disappearance of a loved one. The drama centers on memory, absence, motherhood, resilience, and the way state terror invades ordinary domestic life. Rather than treating politics as distant history, it shows how trauma continues through documents, children, silence, and public denial. It is useful for searches about Brazilian dictatorship, political disappearance, human rights, family grief, memory, and historical accountability."
+  },
+  {
+    "id": 70,
+    "title": "Inside Out",
+    "description": "Inside Out follows Riley, a young girl whose move to a new city disrupts the emotional balance inside her mind. Joy, Sadness, Anger, Fear, and Disgust navigate memories, personality islands, and the painful process of growing up. The film argues that sadness is not a failure but a necessary part of empathy and emotional maturity. It is useful for searches about Pixar animation, emotions, childhood psychology, memory, family change, and coming of age."
+  },
+  {
+    "id": 71,
+    "title": "Toy Story",
+    "description": "Toy Story imagines toys that come alive when humans are not watching. Woody, Andy's favorite cowboy doll, feels threatened by Buzz Lightyear, a new space ranger toy who believes he is a real hero. Their rivalry becomes friendship after both are separated from home and forced to cooperate. It is useful for searches about Pixar, toys, childhood, jealousy, friendship, identity, and the fear of being replaced."
+  },
+  {
+    "id": 72,
+    "title": "Up",
+    "description": "Up follows Carl Fredricksen, an elderly widower who lifts his house with balloons to fulfill a promise made to his late wife. Russell, a lonely young scout, accidentally joins the journey to South America. The adventure combines grief, memory, intergenerational friendship, talking dogs, lost explorers, and the discovery that life can still continue after loss. It is useful for searches about aging, adventure, balloons, widowhood, found family, and emotional animation."
+  },
+  {
+    "id": 73,
+    "title": "WALL-E",
+    "description": "WALL-E takes place on an abandoned Earth covered in garbage, where a small robot continues compacting waste long after humanity has left. WALL-E's curiosity and loneliness change when he meets EVE, a sleek probe searching for signs of plant life. The film uses minimal dialogue to explore environmental collapse, consumerism, technology, love, and the possibility of human renewal. It is useful for searches about robots, ecology, space, trash, silent storytelling, and dystopian animation."
+  },
+  {
+    "id": 74,
+    "title": "Finding Nemo",
+    "description": "Finding Nemo follows Marlin, an anxious clownfish who crosses the ocean after his son Nemo is captured by a diver. With Dory, a forgetful but optimistic companion, Marlin encounters sharks, turtles, jellyfish, and the vastness of marine life. The journey teaches trust, courage, letting go, and the difference between protection and control. It is useful for searches about ocean adventure, parent-child relationships, fish, memory loss, Pixar, and family animation."
+  },
+  {
+    "id": 75,
+    "title": "Ratatouille",
+    "description": "Ratatouille follows Remy, a rat with extraordinary culinary talent who dreams of cooking in Paris. He forms a secret partnership with Linguini, a clumsy restaurant worker, while hiding from a world that rejects rats in kitchens. The film explores creativity, taste, class, criticism, mentorship, and the idea that talent can come from unexpected places. It is useful for searches about cooking, Paris, chefs, restaurants, food criticism, ambition, and artistic identity."
+  },
+  {
+    "id": 76,
+    "title": "Shrek",
+    "description": "Shrek follows a solitary ogre whose swamp is invaded by fairy-tale creatures exiled by Lord Farquaad. To recover his privacy, Shrek agrees to rescue Princess Fiona with the help of a talkative donkey. The film parodies classic fairy tales while questioning beauty standards, social exclusion, love, and self-acceptance. It is useful for searches about animated comedy, ogres, princesses, fairy-tale satire, talking animals, and subverted romance."
+  },
+  {
+    "id": 77,
+    "title": "How to Train Your Dragon",
+    "description": "How to Train Your Dragon follows Hiccup, a young Viking who does not fit his village's dragon-slaying culture. After injuring a dragon named Toothless, he chooses empathy over violence and discovers that the feared enemy can be understood. Their friendship challenges tradition and changes the future of the community. It is useful for searches about dragons, Vikings, friendship, disability, training, courage, and overcoming inherited prejudice."
+  },
+  {
+    "id": 78,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "description": "Spider-Man: Into the Spider-Verse follows Miles Morales as he gains spider powers and meets alternate Spider-people from parallel universes. The film uses comic-book visual language, graffiti energy, humor, and emotional stakes to tell a story about legacy and self-belief. Miles must learn that becoming Spider-Man means finding his own rhythm rather than copying Peter Parker. It is useful for searches about multiverse stories, animation style, superheroes, identity, family, and representation."
+  },
+  {
+    "id": 79,
+    "title": "Avengers: Endgame",
+    "description": "Avengers: Endgame follows the surviving heroes after Thanos's snap has erased half of all life. Their attempt to undo the catastrophe involves time travel, grief, sacrifice, reunions, and a final battle that closes many character arcs. Iron Man, Captain America, Thor, Hulk, Black Widow, and others confront both cosmic stakes and personal endings. It is useful for searches about Marvel, time heists, superhero finales, sacrifice, grief, and team battles."
+  },
+  {
+    "id": 80,
+    "title": "Avengers: Infinity War",
+    "description": "Avengers: Infinity War follows Thanos as he searches for the Infinity Stones to impose his violent vision of cosmic balance. Heroes across Earth, space, Wakanda, and Titan try to stop him while divided by distance, strategy, and past conflicts. The film is structured around the villain's quest and ends with a rare large-scale defeat for the heroes. It is useful for searches about Thanos, Infinity Stones, Marvel crossovers, Wakanda, cosmic threats, and apocalyptic superhero stories."
+  },
+  {
+    "id": 81,
+    "title": "Black Panther",
+    "description": "Black Panther follows T'Challa as he becomes king of Wakanda, a technologically advanced African nation hidden from the world. The arrival of Killmonger challenges Wakanda's isolation and raises questions about ancestry, colonial history, global responsibility, and political power. The film combines superhero action with royal drama, Afrofuturist design, family legacy, and ideological conflict. It is useful for searches about Wakanda, vibranium, African futurism, kingship, identity, and Marvel politics."
+  },
+  {
+    "id": 82,
+    "title": "Guardians of the Galaxy",
+    "description": "Guardians of the Galaxy follows a group of criminals and outsiders who accidentally become a team while dealing with a powerful cosmic artifact. Peter Quill, Gamora, Drax, Rocket, and Groot form a dysfunctional found family through jokes, loss, music, and shared danger. The film blends space adventure, irreverent comedy, emotional backstory, and pop songs from the 1970s. It is useful for searches about Marvel space stories, found family, misfit heroes, mixtapes, cosmic villains, and humorous action."
+  },
+  {
+    "id": 83,
+    "title": "Deadpool",
+    "description": "Deadpool follows Wade Wilson, a mercenary who gains accelerated healing after a cruel experiment but is left physically scarred. He becomes Deadpool, a sarcastic antihero who breaks the fourth wall while seeking revenge and trying to reconnect with Vanessa. The film mixes graphic violence, adult comedy, romance, self-aware superhero parody, and rapid jokes. It is useful for searches about antiheroes, regeneration, mercenaries, fourth-wall humor, comic violence, and unconventional superhero films."
+  },
+  {
+    "id": 84,
+    "title": "Logan",
+    "description": "Logan follows an aging Wolverine in a bleak future where mutants have nearly vanished. He cares for a deteriorating Professor Xavier while protecting Laura, a young girl with powers and trauma similar to his own. The film uses western imagery and road-movie structure to tell a story about exhaustion, fatherhood, violence, legacy, and death. It is useful for searches about Wolverine, X-Men, mutant children, aging heroes, sacrifice, family bonds, and gritty superhero drama."
+  },
+  {
+    "id": 85,
+    "title": "V for Vendetta",
+    "description": "V for Vendetta is set in a future Britain ruled by an authoritarian regime built on fear, surveillance, propaganda, and repression. V, a masked revolutionary, attacks the state while guiding Evey through a painful awakening about courage and freedom. The film uses theatrical symbolism, political memory, and the Guy Fawkes mask to explore resistance. It is useful for searches about dystopia, fascism, revolution, surveillance states, masked rebels, civil liberty, and political revenge."
+  },
+  {
+    "id": 86,
+    "title": "The Grand Budapest Hotel",
+    "description": "The Grand Budapest Hotel follows Gustave H., a refined hotel concierge, and Zero, his young lobby boy, through a comic mystery involving inheritance, murder, and a valuable painting. The film is framed as memory within memory, giving the story a nostalgic and melancholic tone beneath its elegance. Its precise visual style, symmetrical compositions, fictional European setting, and fast dialogue are central to its identity. It is useful for searches about Wes Anderson, hotels, inheritance plots, friendship, visual symmetry, and sophisticated comedy."
+  },
+  {
+    "id": 87,
+    "title": "La La Land",
+    "description": "La La Land follows Mia, an aspiring actress, and Sebastian, a jazz pianist, as they pursue artistic dreams in Los Angeles. Their romance grows through music, dance, auditions, career frustration, and shared ambition. The film celebrates classic Hollywood musicals while asking whether love and professional dreams can survive success. It is useful for searches about jazz, musical romance, Los Angeles, acting auditions, artistic sacrifice, bittersweet endings, and dreamers."
+  },
+  {
+    "id": 88,
+    "title": "A Star Is Born",
+    "description": "A Star Is Born follows Ally, a talented singer discovered by Jackson Maine, a famous musician struggling with addiction and self-destruction. Their love story is shaped by fame, jealousy, performance, insecurity, and the unequal movement of their careers. As Ally rises, Jackson loses control of his public and private life. It is useful for searches about music drama, celebrity, alcoholism, romance, mentorship, live performance, and tragic love stories."
+  },
+  {
+    "id": 89,
+    "title": "The Wolf of Wall Street",
+    "description": "The Wolf of Wall Street follows Jordan Belfort, a stockbroker who builds wealth through fraud, manipulation, aggressive sales, and excess. The film presents financial crime as a carnival of greed, drugs, status, spectacle, and moral emptiness. Its energy is comic and outrageous, but the behavior it depicts is predatory and destructive. It is useful for searches about Wall Street, stock scams, corruption, money, white-collar crime, sales culture, and capitalist excess."
+  },
+  {
+    "id": 90,
+    "title": "Focus",
+    "description": "Focus follows Nicky, an experienced con artist who teaches Jess the techniques of theft, distraction, manipulation, and confidence schemes. Their relationship mixes attraction and distrust because both understand that every emotional signal might be part of a con. The plot moves through gambling, sports events, wealthy targets, and reversals of control. It is useful for searches about con artists, romantic crime, deception, pickpocketing, high-stakes bets, and stylish heist stories."
+  },
+  {
+    "id": 91,
+    "title": "Ocean's Eleven",
+    "description": "Ocean's Eleven follows Danny Ocean as he assembles a specialized team to rob several Las Vegas casinos at once. Each member brings a distinct skill involving technology, acrobatics, explosives, surveillance, impersonation, or social engineering. The pleasure of the film comes from planning, timing, charm, misdirection, and watching a complicated heist click into place. It is useful for searches about casino robberies, ensemble teams, Las Vegas, clever theft, con games, and elegant crime comedy."
+  },
+  {
+    "id": 92,
+    "title": "Rise of the Planet of the Apes",
+    "description": "Rise of the Planet of the Apes follows scientist Will Rodman as an experimental treatment increases intelligence in apes. Caesar, a chimpanzee raised in a human environment, experiences love, captivity, betrayal, and awakening before leading a rebellion. The film turns a franchise origin into a story about empathy, animal testing, scientific ambition, and the birth of a new society. It is useful for searches about intelligent apes, laboratories, genetic experiments, Caesar, rebellion, and human-animal ethics."
+  },
+  {
+    "id": 93,
+    "title": "District 9",
+    "description": "District 9 is set in an alternate Johannesburg where stranded aliens are forced into a segregated and militarized district. Wikus, a bureaucrat helping evict them, is exposed to alien biotechnology and begins transforming physically and socially into the kind of being he once controlled. The film uses mock-documentary style to explore xenophobia, apartheid echoes, corporate violence, and body horror. It is useful for searches about aliens, segregation, South Africa, refugee camps, transformation, and social science fiction."
+  },
+  {
+    "id": 94,
+    "title": "Ex Machina",
+    "description": "Ex Machina follows Caleb, a programmer invited to evaluate Ava, a humanoid artificial intelligence created by the isolated billionaire Nathan. The test becomes a psychological contest about consciousness, desire, surveillance, manipulation, and control. Every conversation raises doubts about who is studying whom and what freedom means for an artificial being. It is useful for searches about AI, robotics, Turing tests, machine consciousness, gender, isolation, and ethical technology."
+  },
+  {
+    "id": 95,
+    "title": "Arrival",
+    "description": "Arrival follows linguist Louise Banks as she tries to communicate with extraterrestrial visitors whose language challenges human assumptions about time. While governments fear war, Louise approaches the heptapods through patience, translation, symbols, and trust. The film connects language, grief, motherhood, memory, free will, and nonlinear experience. It is useful for searches about alien communication, linguistics, first contact, time perception, diplomacy, science fiction drama, and emotional choice."
+  },
+  {
+    "id": 96,
+    "title": "Get Out",
+    "description": "Get Out follows Chris, a Black photographer visiting the wealthy white family of his girlfriend for the first time. Awkward social tension turns into horror as he discovers a racist conspiracy hidden beneath liberal politeness and admiration. The film uses hypnosis, body control, satire, and suspense to examine objectification, appropriation, and racial violence. It is useful for searches about social horror, racism, paranoia, interracial relationships, family visits, and the Sunken Place."
+  },
+  {
+    "id": 97,
+    "title": "Vertigo",
+    "description": "Vertigo follows Scottie, a former detective with acrophobia who becomes obsessed with a woman he is hired to follow. His desire turns into control, reconstruction, fantasy, and a doomed attempt to recreate an image of lost love. The film blends romantic mystery with psychological disturbance, color symbolism, San Francisco locations, and identity manipulation. It is useful for searches about Hitchcock, obsession, vertigo, doubles, surveillance, guilt, and tragic romantic thrillers."
+  },
+  {
+    "id": 98,
+    "title": "Cinema Paradiso",
+    "description": "Cinema Paradiso follows Salvatore, a filmmaker who remembers his childhood friendship with Alfredo, the projectionist in a small Italian town. The local movie theater becomes a place of education, community, fantasy, censorship, first love, and emotional escape. The story moves through nostalgia, mentorship, departure, and the ache of memory. It is useful for searches about love of cinema, Italy, projectionists, childhood, small towns, nostalgia, and bittersweet coming-of-age stories."
+  },
+  {
+    "id": 99,
+    "title": "Life Is Beautiful",
+    "description": "Life Is Beautiful follows Guido, a Jewish Italian father who uses humor and imagination to shield his son from the horrors of a concentration camp. The film begins as romantic comedy and gradually becomes a wartime story about love, performance, denial, and protection. Guido turns terror into a game to preserve the child's innocence for as long as possible. It is useful for searches about the Holocaust, fatherhood, comedy and tragedy, innocence, sacrifice, and emotional survival."
+  },
+  {
+    "id": 100,
+    "title": "The Intouchables",
+    "description": "The Intouchables follows Philippe, a wealthy quadriplegic man, and Driss, a young man from a working-class background hired as his caregiver. Their friendship grows through humor, honesty, music, risk, and refusal to reduce disability to pity. The film contrasts social class and physical limitation while emphasizing autonomy, companionship, and renewed appetite for life. It is useful for searches about unlikely friendship, disability, caregiving, class difference, French comedy drama, and emotional recovery."
+  }
+]
