@@ -55,6 +55,14 @@ Instale as dependências:
 uv sync
 ```
 
+Você também pode usar os atalhos do `Makefile`:
+
+```bash
+make install
+make dev
+make check
+```
+
 Crie o arquivo `.env` a partir do exemplo:
 
 ```bash
@@ -132,9 +140,11 @@ A chamada `/health` já funciona. As outras chamadas vão funcionar depois que a
 ├── .gitignore
 ├── .http
 ├── .python-version
+├── Makefile
 ├── main.py
 ├── pyproject.toml
 ├── README.md
+├── SECURITY.md
 └── uv.lock
 ```
 
