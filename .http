@@ -1,0 +1,57 @@
+GET http://localhost:8000/health HTTP/1.1
+Content-Type: application/json
+###
+GET http://localhost:8000/search?query=ring HTTP/1.1
+Content-Type: application/json
+###
+GET http://localhost:8000/search/tf?doc_id=10&term=ring HTTP/1.1
+Content-Type: application/json
+###
+GET http://localhost:8000/search/idf?term=poderoso HTTP/1.1
+Content-Type: application/json
+###
+GET http://localhost:8000/search/tfidf?doc_id=7&term=matrix HTTP/1.1
+Content-Type: application/json
+
+###
+GET http://localhost:8000/search/bm25?query=ring HTTP/1.1
+Content-Type: application/json
+###
+GET http://localhost:8000/search/semantic?query=War HTTP/1.1
+Content-Type: application/json
+
+###
+GET http://localhost:8000/search/chunked_semantic?query=ring HTTP/1.1
+Content-Type: application/json
+###
+GET http://localhost:8000/search/hybrid/weighted?query=avengers HTTP/1.1
+Content-Type: application/json
+###
+GET http://localhost:8000/search/hybrid/rrf?query=Heroes&rerank_method=llm HTTP/1.1
+Content-Type: application/json
+###
+GET http://localhost:8000/search/eval HTTP/1.1
+Content-Type: application/json
+###
+GET http://localhost:8000/search/llm_eval?query=Heroes HTTP/1.1
+Content-Type: application/json
+###
+GET http://localhost:8000/search/agentic_rag?question="Quero assistir um filme de super heroi bem agressivo" HTTP/1.1
+Content-Type: application/json
+###
+
+POST http://localhost:8000/search/multimodal/image?limit=5
+Content-Type: multipart/form-data; boundary=boundary
+
+--boundary
+Content-Disposition: form-data; name="image"; filename="image2.jpg"
+Content-Type: image/jpeg
+
+< ./images/image2.jpg
+--boundary--
+###
+POST http://localhost:8000/vector-store/build HTTP/1.1
+Content-Type: application/json
+###
+GET http://localhost:8000/search/vector-store?query=marvel&limit=5 HTTP/1.1
+Content-Type: application/json
