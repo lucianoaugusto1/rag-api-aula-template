@@ -14,6 +14,7 @@ Este repositório vem com o ambiente configurado, dependências instaláveis via
 - `main.py` e `api/app.py` com FastAPI iniciado.
 - `core/preprocessing.py` com carregamento inicial dos recursos do NLTK.
 - `data/filmes.json` com a base de filmes da aula.
+- `data/filmes_pt_br.json` com a mesma base em português do Brasil.
 - `images/image2.jpg` para testar a chamada multimodal do arquivo `.http`.
 - Pastas `api/`, `core/`, `data/`, `images/` e `cache/`.
 
@@ -133,7 +134,8 @@ A chamada `/health` já funciona. As outras chamadas vão funcionar depois que a
 │   ├── __init__.py
 │   └── preprocessing.py
 ├── data/
-│   └── filmes.json
+│   ├── filmes.json
+│   └── filmes_pt_br.json
 ├── images/
 │   └── image2.jpg
 ├── .env.example
@@ -164,7 +166,7 @@ A chamada `/health` já funciona. As outras chamadas vão funcionar depois que a
 ## Observações para os alunos
 
 - Implemente o código dentro de `api/` e `core/`.
-- Use a base de filmes em `data/filmes.json`.
+- Use a base de filmes em `data/filmes.json` ou a versao PT-BR em `data/filmes_pt_br.json`.
 - Use `images/image2.jpg` como imagem inicial de teste ou coloque novas imagens em `images/`.
 - Use `cache/` apenas para arquivos gerados localmente.
 - Nunca suba chaves de API para o GitHub.

@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "title": "The Godfather",
+    "description": "The Godfather acompanha a familia Corleone, uma dinastia criminosa italo-americana que equilibra lealdade privada e violencia publica. Don Vito Corleone tenta preservar sua influencia por meio de favores, intimidacao e poder familiar ritualizado. Michael Corleone comeca como alguem distante dos negocios da familia, mas guerra, tentativas de assassinato e vinganca o puxam para o centro do imperio. O filme e util para buscas sobre crime organizado, sucessao, lealdade familiar, corrupcao politica, compromisso moral e o custo de se tornar poderoso."
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "description": "The Shawshank Redemption acompanha Andy Dufresne, um banqueiro condenado injustamente pelo assassinato da esposa e do amante dela. Dentro da prisao de Shawshank, ele constroi uma amizade duradoura com Red enquanto resiste silenciosamente a uma instituicao corrupta e desumanizante. A historia fala menos de fuga como acao e mais de paciencia, dignidade, leitura, dinheiro, memoria e esperanca ao longo de decadas. E um contexto forte para consultas sobre condenacao injusta, vida na prisao, amizade, abuso institucional, planejamento de longo prazo e resistencia emocional."
+  },
+  {
+    "id": 3,
+    "title": "Pulp Fiction",
+    "description": "Pulp Fiction entrelaca criminosos, matadores, um boxeador, um chefe do crime e assaltantes pequenos em um retrato nao linear do crime em Los Angeles. O filme e conhecido por conversas longas, violencia repentina, referencias pop, humor sombrio e historias que retornam sobre si mesmas. Vincent Vega e Jules Winnfield passam por situacoes absurdas e perigosas que muitas vezes se tornam filosoficas sem perder a tensao das ruas. E util para buscas semanticas sobre narrativa nao linear, cinema de gangsters, redencao, acaso, violencia e dialogos estilizados."
+  },
+  {
+    "id": 4,
+    "title": "Inception",
+    "description": "Inception acompanha Dom Cobb, um ladrao profissional que rouba segredos entrando nos sonhos das pessoas. Ele e contratado para fazer o oposto: implantar uma ideia no subconsciente de um herdeiro corporativo de forma tao profunda que o alvo acredite que ela nasceu dele. O filme constroi um assalto em camadas, com sonhos dentro de sonhos, onde arquitetura, memoria, culpa, dilatacao do tempo e luto moldam a missao. Funciona bem para buscas sobre logica dos sonhos, espionagem corporativa, manipulacao do subconsciente, finais ambiguos, trauma emocional e ficcao cientifica de acao."
+  },
+  {
+    "id": 5,
+    "title": "Fight Club",
+    "description": "Fight Club acompanha um narrador sem nome cuja insonia, exaustao consumista e anestesia emocional o levam ate Tyler Durden. Juntos eles criam um clube de luta clandestino que comeca como descarga fisica e evolui para um movimento anticonsumista com consequencias politicas perigosas. O filme examina masculinidade, alienacao, colapso de identidade, capitalismo, violencia, comportamento de culto e dissociacao. E especialmente relevante para buscas sobre narracao nao confiavel, rebeliao social, saude mental, niilismo e a divisao entre vida comum e raiva escondida."
+  },
+  {
+    "id": 6,
+    "title": "Forrest Gump",
+    "description": "Forrest Gump acompanha um homem bondoso que atravessa varias decadas da historia dos Estados Unidos sem compreender totalmente sua influencia no mundo ao redor. Forrest encontra guerra, protestos, sucesso nos negocios, fama esportiva e momentos politicos enquanto permanece ligado emocionalmente a Jenny, sua mae e o tenente Dan. O filme mistura romance, comedia, melodrama e nostalgia historica por meio de um personagem definido por inocencia e persistencia. E util para buscas sobre destino, cultura americana, deficiencia, Vietna, amizade, amor e perseveranca."
+  },
+  {
+    "id": 7,
+    "title": "The Matrix",
+    "description": "The Matrix acompanha Neo, um hacker que descobre que a realidade cotidiana e uma simulacao criada por maquinas para controlar a humanidade. Morpheus e Trinity o apresentam a uma rebeliao que luta fora da ilusao, onde conhecimento se torna libertacao e perigo ao mesmo tempo. O filme combina visual cyberpunk, artes marciais, filosofia, inteligencia artificial, profecia e perguntas sobre livre-arbitrio. E um contexto forte para buscas sobre teoria da simulacao, realidade virtual, controle por maquinas, despertar, narrativas do escolhido e resistencia contra sistemas."
+  },
+  {
+    "id": 8,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "The Fellowship of the Ring inicia a jornada de Frodo Baggins depois que ele herda o Um Anel, um objeto ligado ao senhor sombrio Sauron. Uma sociedade formada por hobbits, humanos, um elfo, um anao e um mago se une para levar o anel ate sua destruicao antes que ele corrompa a Terra-media. O filme apresenta a fantasia epica por meio de amizade, tentacao, mal ancestral, sacrificio e o peso colocado sobre pessoas comuns. E util para buscas sobre aneis magicos, jornadas heroicas, sociedade, elfos, hobbits, magos e construcao de mundos de fantasia."
+  },
+  {
+    "id": 9,
+    "title": "The Lord of the Rings: The Two Towers",
+    "description": "The Two Towers acompanha os herois separados depois da ruptura da Sociedade. Frodo e Sam continuam rumo a Mordor com a orientacao instavel de Gollum, enquanto Aragorn, Legolas e Gimli se envolvem na defesa de Rohan. A Batalha do Abismo de Helm oferece um grande retrato de desespero militar, coragem e alianca diante de uma ameaca esmagadora. O filme e util para buscas sobre jornadas divididas, estrategia de guerra, guias corrompidos, lealdade, cercos, Saruman e crescimento da esperanca durante a crise."
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "The Return of the King conclui a guerra pela Terra-media ao combinar sacrificio intimo com batalhas de enorme escala. Frodo e Sam se aproximam da Montanha da Perdicao enquanto o Anel se torna cada vez mais pesado psicologica e fisicamente, e Aragorn aceita as responsabilidades da realeza. O filme explora coragem, tentacao, misericordia, amizade, restauracao politica e o impacto emocional da vitoria. E um contexto forte para buscas sobre finais epicos, batalhas finais, sacrificio heroico, reinado, Mordor e destruicao de um artefato corruptor."
+  },
+  {
+    "id": 11,
+    "title": "The Dark Knight",
+    "description": "The Dark Knight coloca Batman contra o Coringa, um criminoso que usa o caos como arma e trata a moralidade como experimento social. Gotham City se torna um campo de teste para medo, vigilancia, justica, confianca publica e limites da contencao heroica. A queda de Harvey Dent, de promotor idealista a figura vingativa, mostra como simbolos podem ser corrompidos sob pressao. O filme e util para buscas sobre drama criminal de super-heroi, anarquia, terrorismo urbano, dilemas morais, vigilantismo, sacrificio e viloes psicologicos."
+  },
+  {
+    "id": 12,
+    "title": "Schindler's List",
+    "description": "Schindler's List dramatiza a transformacao de Oskar Schindler, de empresario oportunista a salvador de trabalhadores judeus durante o Holocausto. O filme mostra como burocracia, lucro, terror e coragem pessoal se cruzam sob a ocupacao nazista. Sua forca emocional vem do contraste entre crueldade industrializada e atos individuais de protecao. E um contexto importante para buscas sobre Segunda Guerra Mundial, genocidio, memoria do Holocausto, responsabilidade moral, sobrevivencia, trabalho industrial e a diferenca que uma pessoa comprometida ainda pode fazer."
+  },
+  {
+    "id": 13,
+    "title": "Goodfellas",
+    "description": "Goodfellas acompanha a ascensao de Henry Hill dentro da mafia italo-americana e sua posterior queda em paranoia, drogas, traicao e pressao policial. O filme apresenta o crime organizado como sedutor, engracado, violento e exaustivo, e nao simplesmente glamouroso. Ele se concentra nos rituais cotidianos dos gangsters, codigos de lealdade, dinheiro, restaurantes, status e brutalidade repentina. E util para buscas sobre vida na mafia, biografia criminal, gangsters de Nova York, informantes, cocaina, traicao e declinio criminoso."
+  },
+  {
+    "id": 14,
+    "title": "Interstellar",
+    "description": "Interstellar acompanha astronautas que viajam por um buraco de minhoca em busca de um planeta habitavel enquanto a Terra enfrenta colapso ecologico. Cooper deixa sua filha Murph para tras, e a relacao entre eles se torna central para o tratamento do tempo, da gravidade, do amor e do sacrificio. A historia mistura conceitos de ciencia dura com melodrama emocional, incluindo relatividade, buracos negros, tempestades de poeira e sobrevivencia da especie. E um contexto forte para buscas sobre exploracao espacial, buracos de minhoca, dilatacao do tempo, laços entre pais e filhos, crise climatica e futuro da humanidade."
+  },
+  {
+    "id": 15,
+    "title": "The Silence of the Lambs",
+    "description": "The Silence of the Lambs acompanha Clarice Starling, uma trainee do FBI que investiga um assassino em serie enquanto consulta o psiquiatra preso Hannibal Lecter. A inteligencia, vulnerabilidade e trauma de Clarice entram em um duelo psicologico com Lecter, que oferece percepcao enquanto manipula cada conversa. O filme mistura investigacao procedural, horror, perfil comportamental, pressao de genero e ameaca intima. E util para buscas sobre assassinos em serie, perfis do FBI, viloes canibais, suspense psicologico, trauma e relacao entre investigadora e monstro."
+  },
+  {
+    "id": 16,
+    "title": "The Green Mile",
+    "description": "The Green Mile se passa no corredor da morte, onde o guarda Paul Edgecomb conhece John Coffey, um condenado com misteriosos poderes de cura. A historia combina elementos sobrenaturais com drama prisional, duvida moral, racismo, crueldade e compaixao. A inocencia e o sofrimento de John Coffey obrigam os guardas a questionar punicao, justica e misericordia. E util para buscas sobre pena de morte, milagres, execucao injusta, empatia, cura espiritual, violencia institucional e drama emocionalmente pesado."
+  },
+  {
+    "id": 17,
+    "title": "Gladiator",
+    "description": "Gladiator acompanha Maximus, um respeitado general romano traido por Commodus depois da morte do imperador Marco Aurelio. Reduzido a escravidao, Maximus se torna um gladiador cuja habilidade na arena o transforma em simbolo contra a corrupcao imperial. O filme combina vinganca, legitimidade politica, espetaculo, luto e o desejo de reencontrar a familia apos a morte. Funciona bem para buscas sobre Roma antiga, combate de gladiadores, traicao, tirania, honra, vinganca e tragedia heroica."
+  },
+  {
+    "id": 18,
+    "title": "The Lion King",
+    "description": "The Lion King acompanha Simba, um jovem principe que foge depois da morte de seu pai Mufasa. Scar manipula a culpa de Simba e toma o poder, transformando as Terras do Reino em um territorio quebrado. O retorno de Simba se torna uma historia sobre luto, identidade, responsabilidade, ancestralidade e ciclo da vida. O filme e util para buscas sobre animacao Disney, sucessao real, drama de reino, perda familiar, amadurecimento e retomada do lugar legitimo."
+  },
+  {
+    "id": 19,
+    "title": "Back to the Future",
+    "description": "Back to the Future acompanha Marty McFly, um adolescente que viaja acidentalmente de 1985 para 1955 em uma maquina do tempo DeLorean criada por Doc Brown. No passado, Marty interfere no primeiro encontro dos pais e corre o risco de apagar a propria existencia. O filme transforma viagem no tempo em uma aventura rapida e comica sobre historia familiar, identidade adolescente, causalidade, musica e invencao. E util para buscas sobre lacos temporais, paradoxos, cultura dos anos 1950, comedia cientifica, carros modificados e mudanca do passado."
+  },
+  {
+    "id": 20,
+    "title": "City of God",
+    "description": "City of God retrata o crescimento do crime organizado em uma favela do Rio de Janeiro ao longo de varias decadas. Buscape tenta escapar da violencia por meio da fotografia, enquanto outras criancas sao puxadas para o trafico de drogas, armas, status e vinganca. O filme mostra como pobreza, policiamento, ambicao e exposicao infantil a brutalidade moldam futuros diferentes. E um contexto forte para buscas sobre cinema brasileiro, vida na favela, crime urbano, fotografia, desigualdade social, violencia juvenil e sobrevivencia em comunidades marginalizadas."
+  },
+  {
+    "id": 21,
+    "title": "Parasite",
+    "description": "Parasite acompanha a pobre familia Kim enquanto ela se infiltra gradualmente na casa da rica familia Park por meio de engano e interpretacao. O que comeca como satira social se torna um thriller tenso sobre dependencia de classe, ressentimento, arquitetura, cheiro, clima e espacos escondidos. A propria casa vira um mapa da desigualdade, com luxo no andar de cima e desespero enterrado abaixo. E util para buscas sobre conflito de classes, comedia sombria, cinema coreano, mobilidade social, trabalho domestico e reversoes violentas."
+  },
+  {
+    "id": 22,
+    "title": "Amelie",
+    "description": "Amelie acompanha uma jovem timida em Paris que decide melhorar a vida de desconhecidos por meio de pequenas intervencoes secretas. Sua imaginacao transforma apartamentos comuns, cafes, estacoes de trem e cabines de foto em um quebra-cabeca emocional divertido. Enquanto ajuda outras pessoas a se reconectarem, ela precisa enfrentar a propria solidao e o medo de intimidade. O filme e um contexto forte para buscas sobre romance encantador, Paris, gentileza, realismo magico, introversao, visual colorido e transformacao emocional delicada."
+  },
+  {
+    "id": 23,
+    "title": "The Usual Suspects",
+    "description": "The Usual Suspects gira em torno do relato de Verbal Kint sobre como um grupo de criminosos se envolveu com a figura aterrorizante Keyser Soze. O filme usa interrogatorio, flashbacks, narracao nao confiavel e mitologia criminal para manter a verdade instavel. Seu principal prazer esta na forma como os detalhes sao reorganizados pela revelacao final. E util para buscas sobre misterio criminal, finais com reviravolta, narrativa enganosa, interrogatorio policial, identidade oculta e viloes lendarios."
+  },
+  {
+    "id": 24,
+    "title": "Se7en",
+    "description": "Se7en acompanha dois detetives investigando assassinatos encenados a partir dos sete pecados capitais. A inteligencia cansada de Somerset contrasta com a impaciencia de Mills enquanto eles atravessam uma cidade sombria e chuvosa marcada por decadencia moral. O assassino usa cada crime como mensagem sobre culpa, pecado, punicao e apodrecimento social. O filme e um contexto forte para buscas sobre thrillers de serial killer, simbolismo religioso, parceria de detetives, escuridao urbana, horror psicologico e finais devastadores."
+  },
+  {
+    "id": 25,
+    "title": "Saving Private Ryan",
+    "description": "Saving Private Ryan abre com o brutal desembarque do Dia D na praia de Omaha e depois acompanha soldados enviados para encontrar um paraquedista sobrevivente. A missao levanta perguntas dolorosas sobre se uma vida vale o risco de muitas outras. O esquadrao do capitao Miller encontra medo, dever, ressentimento, sacrificio e a aleatoriedade do combate. E util para buscas sobre Segunda Guerra Mundial, Normandia, realismo de batalha, missoes de resgate, etica militar, trauma e fraternidade entre soldados."
+  },
+  {
+    "id": 26,
+    "title": "Joker",
+    "description": "Joker acompanha Arthur Fleck, um palhaco isolado e comediante fracassado vivendo em uma Gotham decadente. Negligencia social, doenca mental, humilhacao, pobreza e espetaculo midiatico o empurram para uma persona violenta que outras pessoas passam a mitificar. O filme trata a origem de um vilao como mistura de colapso pessoal e inquietacao publica. E util para buscas sobre viloes de quadrinhos, colapso psicologico, alienacao social, Gotham, ressentimento de classe, percepcao nao confiavel e estudos sombrios de personagem."
+  },
+  {
+    "id": 27,
+    "title": "The Truman Show",
+    "description": "The Truman Show acompanha Truman Burbank, um homem cuja vida inteira foi encenada e transmitida como entretenimento televisivo sem que ele soubesse. Pequenas falhas em sua cidade controlada revelam que casamento, amizades, trabalho e ambiente foram fabricados. A historia se torna uma satira sobre midia, vigilancia, publicidade, reality show e a necessidade humana de escolha autentica. E util para buscas sobre realidade artificial, cameras escondidas, livre-arbitrio, manipulacao, cultura da celebridade e fuga de um mundo projetado."
+  },
+  {
+    "id": 28,
+    "title": "Whiplash",
+    "description": "Whiplash acompanha Andrew Neiman, um baterista de jazz ambicioso que tenta se tornar um dos grandes. Seu professor Fletcher usa intimidacao, humilhacao e abuso psicologico enquanto afirma que a grandeza exige pressao extrema. O filme transforma salas de ensaio e competicoes em campos de batalha de ego, disciplina, medo e obsessao. E util para buscas sobre jazz, bateria, perfeccionismo, mentoria abusiva, ambicao artistica, conservatorios de musica e o custo da excelencia."
+  },
+  {
+    "id": 29,
+    "title": "Spirited Away",
+    "description": "Spirited Away acompanha Chihiro, uma menina presa em um mundo espiritual depois que seus pais sao transformados em porcos. Ela precisa trabalhar em uma casa de banhos comandada por uma bruxa poderosa enquanto aprende coragem, disciplina, memoria e compaixao. O filme mistura folclore japones, temas ambientais, trabalho, perda de identidade e imaginacao visual onirica. E um contexto forte para buscas sobre Studio Ghibli, espiritos, amadurecimento, magia, casas de banho, medo infantil e transformacao."
+  },
+  {
+    "id": 30,
+    "title": "The Shining",
+    "description": "The Shining acompanha Jack Torrance, um escritor em dificuldades que se torna zelador de inverno do isolado Hotel Overlook. O passado violento do edificio, uma presenca sobrenatural e o ressentimento do proprio Jack se unem em uma ameaca contra sua esposa Wendy e seu filho Danny. O filme cria horror por meio de espaco, repeticao, tensao familiar, vicio, visoes psiquicas e isolamento claustrofobico. E util para buscas sobre hoteis assombrados, horror psicologico, febre de confinamento, violencia domestica, escritores e imagens iconicas do terror."
+  },
+  {
+    "id": 31,
+    "title": "Django Unchained",
+    "description": "Django Unchained acompanha Django, um homem escravizado libertado pelo cacador de recompensas alemao Dr. King Schultz. Django aprende o oficio das recompensas enquanto procura sua esposa Broomhilda, mantida em uma plantacao brutal. O filme mistura faroeste de vinganca, escravidao, humor sombrio, violencia estilizada e dinamicas de poder racial. E util para buscas sobre cacadores de recompensa, plantacoes, missoes de resgate, faroestes de vinganca, escravidao nos Estados Unidos e dialogos de Tarantino."
+  },
+  {
+    "id": 32,
+    "title": "Inglourious Basterds",
+    "description": "Inglourious Basterds reimagina a Segunda Guerra Mundial por meio de tramas cruzadas para destruir a lideranca nazista dentro de um cinema frances. A historia acompanha soldados judeu-americanos, a dona de cinema vingativa Shosanna e o oficial Hans Landa, aterradoramente educado. Linguagem, performance, sotaques, cinema e identidade se tornam ferramentas de sobrevivencia e violencia. E util para buscas sobre historia alternativa, nazistas, resistencia, espionagem, vinganca, tensao disfarçada e cinema como arma."
+  },
+  {
+    "id": 33,
+    "title": "The Big Lebowski",
+    "description": "The Big Lebowski acompanha Jeff Lebowski, conhecido como Dude, depois que ele e confundido com um homem rico de mesmo nome. Um tapete arruinado, um plano de sequestro, amigos do boliche, niilistas, artistas e criminosos o puxam para um misterio que ele mal quer resolver. A comedia nasce do choque entre sua personalidade relaxada e situacoes noir cada vez mais absurdas. E util para buscas sobre comedia cult, identidade trocada, boliche, estranhezas de Los Angeles, resgates e anti-herois tranquilos."
+  },
+  {
+    "id": 34,
+    "title": "Reservoir Dogs",
+    "description": "Reservoir Dogs acompanha um grupo de criminosos depois que um roubo de diamantes desmorona em sangue e suspeita. Os ladroes sobreviventes se reúnem em um armazem e passam a desconfiar que um deles e policial infiltrado. O filme usa cronologia fragmentada, dialogo tenso, violencia, musica pop e lealdades instaveis. E util para buscas sobre roubos fracassados, paranoia criminosa, policiais infiltrados, traicao, impasses em armazem e cinema criminal independente."
+  },
+  {
+    "id": 35,
+    "title": "2001: A Space Odyssey",
+    "description": "2001: A Space Odyssey acompanha a evolucao humana desde primatas pre-historicos ate uma missao misteriosa perto de Jupiter. Monolitos aparecem em momentos-chave, sugerindo contato com uma inteligencia alem da compreensao humana. A bordo da nave, o computador HAL 9000 passa de assistente calmo a obstaculo mortal, levantando questoes sobre consciencia e controle de maquinas. O filme e util para buscas sobre ficcao cientifica filosofica, inteligencia artificial, viagem espacial, evolucao, misterio cosmico e narrativa visual."
+  },
+  {
+    "id": 36,
+    "title": "Taxi Driver",
+    "description": "Taxi Driver acompanha Travis Bickle, um veterano solitario do Vietna que dirige taxi pela Nova York noturna. Ele se sente cada vez mais enojado com a violencia, a exploracao sexual, a politica e a decadencia moral percebida na cidade, enquanto se torna mais instavel. Seu desejo de limpar o mundo se transforma em uma fantasia violenta de proposito. O filme e util para buscas sobre alienacao urbana, anti-herois, instabilidade mental, vigilantismo, solidao, trauma pos-guerra e Nova York dos anos 1970."
+  },
+  {
+    "id": 37,
+    "title": "Apocalypse Now",
+    "description": "Apocalypse Now acompanha o capitao Willard em uma missao secreta durante a Guerra do Vietna para assassinar o coronel Kurtz. Viajando rio acima pela selva, Willard encontra violencia surreal, absurdo militar, ecos coloniais e colapso psicologico. Kurtz se torna ao mesmo tempo alvo e espelho, representando o colapso moral da guerra. O filme e util para buscas sobre Vietna, guerra na selva, loucura, imperialismo, jornadas por rio, horror militar e a escuridao do poder."
+  },
+  {
+    "id": 38,
+    "title": "Citizen Kane",
+    "description": "Citizen Kane investiga a vida de Charles Foster Kane depois que sua ultima palavra, Rosebud, vira um misterio jornalistico. Por meio de entrevistas e memorias fragmentadas, o filme reconstrói a ascensao de um magnata da imprensa marcado por riqueza, ambicao, isolamento e perda emocional. Sua estrutura revela como uma vida publica pode esconder desejos privados impossiveis de recuperar. E util para buscas sobre poder midiatico, memoria, jornalismo, riqueza, solidao, ambicao e narrativas investigativas."
+  },
+  {
+    "id": 39,
+    "title": "Casablanca",
+    "description": "Casablanca acompanha Rick Blaine, dono de um cafe no Marrocos durante a Segunda Guerra Mundial, quando seu antigo amor Ilsa reaparece com o marido, um lider da resistencia. Rick precisa escolher entre desejo pessoal e responsabilidade politica em um mundo de refugiados, ocupacao nazista e passagens de fuga. O filme mistura romance, sacrificio, cinismo, idealismo e suspense de guerra. E util para buscas sobre amor perdido, resistencia, Casablanca, refugiados, escolha moral, guerra e romance classico."
+  },
+  {
+    "id": 40,
+    "title": "The Departed",
+    "description": "The Departed acompanha um policial infiltrado na mafia e um criminoso infiltrado na policia de Boston. As duas identidades falsas avancam em paralelo, criando paranoia, vigilancia, lealdades divididas e medo constante de exposicao. O filme transforma crime organizado e investigacao policial em um jogo brutal de espelhos. E util para buscas sobre infiltrados, mafia irlandesa, corrupcao policial, traicao, identidade dupla, Boston e thrillers criminais tensos."
+  },
+  {
+    "id": 41,
+    "title": "Memento",
+    "description": "Memento acompanha Leonard Shelby, um homem incapaz de formar novas memorias enquanto procura o assassino de sua esposa. Ele depende de tatuagens, anotacoes e fotografias para montar uma investigacao que pode estar sendo manipulada. A narrativa fragmentada coloca o espectador dentro da desorientacao do personagem. E util para buscas sobre memoria, vinganca, narrativas invertidas, investigacao, manipulacao, trauma e protagonistas nao confiaveis."
+  },
+  {
+    "id": 42,
+    "title": "The Prestige",
+    "description": "The Prestige acompanha a rivalidade obsessiva entre dois magicos em Londres, cada um disposto a sacrificar reputacao, amor e identidade por um truque perfeito. Segredos profissionais, engenharia, ilusao, duplicidade e vinganca transformam o palco em campo de guerra. O filme explora o preco da obsessao e o desejo de controlar o assombro do publico. E util para buscas sobre magicos, rivalidade, truques, segredo, obsessao, ciencia e reviravoltas narrativas."
+  },
+  {
+    "id": 43,
+    "title": "The Social Network",
+    "description": "The Social Network dramatiza a criacao do Facebook e os conflitos pessoais, legais e eticos ao redor de Mark Zuckerberg. O filme mostra programacao, ambicao, exclusao social, disputas de propriedade, amizade quebrada e a cultura competitiva de startups. Seu drama nasce da relacao entre inovacao tecnica e custo humano. E util para buscas sobre redes sociais, tecnologia, empreendedorismo, traicao, universidades, startups e poder digital."
+  },
+  {
+    "id": 44,
+    "title": "Her",
+    "description": "Her acompanha Theodore, um homem solitario que se apaixona por Samantha, um sistema operacional com inteligencia artificial. A relacao deles mistura intimidade, voz, desejo, dependencia emocional e os limites entre presenca real e mediada por tecnologia. O filme trata de amor, solidao e mudanca em uma cidade futurista suave. E util para buscas sobre inteligencia artificial, romance tecnologico, solidao, sistemas operacionais, intimidade digital e futuro das relacoes."
+  },
+  {
+    "id": 45,
+    "title": "Blade Runner 2049",
+    "description": "Blade Runner 2049 acompanha K, um blade runner replicante que descobre um segredo capaz de abalar a ordem entre humanos e seres artificiais. Sua investigacao atravessa cidades decadentes, memorias fabricadas, identidade, desejo e a busca por significado. O filme expande o universo cyberpunk com visual contemplativo e perguntas sobre alma, nascimento e autonomia. E util para buscas sobre replicantes, inteligencia artificial, memoria, futurismo distopico, identidade e ficcao cientifica noir."
+  },
+  {
+    "id": 46,
+    "title": "Blade Runner",
+    "description": "Blade Runner acompanha Rick Deckard, encarregado de cazar replicantes fugitivos em uma Los Angeles futurista, chuvosa e dominada por corporacoes. A perseguicao se transforma em reflexao sobre mortalidade, memoria, empatia e o que torna alguem humano. O filme combina noir, cyberpunk, romance sombrio e ficcao cientifica filosofica. E util para buscas sobre androides, cidades distopicas, humanidade artificial, corporacoes, chuva, neon e questoes existenciais."
+  },
+  {
+    "id": 47,
+    "title": "Alien",
+    "description": "Alien acompanha a tripulacao da nave Nostromo depois que um sinal misterioso leva ao contato com uma criatura letal. O horror cresce em corredores industriais, isolamento espacial, suspeita corporativa e vulnerabilidade fisica. Ripley surge como figura central de sobrevivencia diante de um inimigo biologico imprevisivel. E util para buscas sobre horror espacial, monstros alienigenas, sobrevivencia, corporacoes, naves, claustrofobia e ficcao cientifica assustadora."
+  },
+  {
+    "id": 48,
+    "title": "Aliens",
+    "description": "Aliens acompanha Ripley quando ela retorna ao planeta onde encontrou a criatura alienigena, desta vez com um grupo de fuzileiros coloniais. O filme transforma o terror isolado em acao militar intensa, mantendo temas de maternidade, trauma e sobrevivencia. A ameaca se expande em enxames, corredores escuros e combate desesperado. E util para buscas sobre acao espacial, fuzileiros, xenomorfos, maternidade, trauma, colonias e batalhas contra criaturas."
+  },
+  {
+    "id": 49,
+    "title": "Terminator 2: Judgment Day",
+    "description": "Terminator 2 acompanha Sarah Connor e seu filho John enquanto sao protegidos por um exterminador reprogramado contra uma maquina assassina mais avancada. O filme combina perseguicoes, efeitos especiais, medo nuclear, destino e a possibilidade de mudar o futuro. A relacao entre John e o protetor mecanico cria um nucleo emocional dentro da acao. E util para buscas sobre robos assassinos, viagem no tempo, inteligencia artificial, apocalipse, familia, perseguição e ficcao cientifica de acao."
+  },
+  {
+    "id": 50,
+    "title": "Jurassic Park",
+    "description": "Jurassic Park acompanha cientistas e visitantes presos em um parque tematico onde dinossauros clonados escapam do controle. O projeto de entretenimento revela os riscos de ambicao cientifica, ganancia corporativa e falsa seguranca tecnologica. A aventura mistura maravilhamento, suspense, sobrevivencia e critica ao controle humano sobre a natureza. E util para buscas sobre dinossauros, clonagem, parques tematicos, ciencia irresponsavel, caos, sobrevivencia e aventura."
+  },
+  {
+    "id": 51,
+    "title": "The Terminator",
+    "description": "The Terminator acompanha Sarah Connor, perseguida por uma maquina assassina enviada do futuro para impedir o nascimento de seu filho. Kyle Reese chega para protege-la e explicar uma guerra futura entre humanos e inteligencia artificial. O filme mistura suspense, acao, viagem no tempo e pesadelo tecnologico. E util para buscas sobre exterminadores, destino, resistencia humana, maquinas, futuro apocaliptico, perseguicao e ficcao cientifica sombria."
+  },
+  {
+    "id": 52,
+    "title": "The Sixth Sense",
+    "description": "The Sixth Sense acompanha Malcolm Crowe, um psicologo infantil que tenta ajudar Cole, um menino que afirma ver pessoas mortas. O filme constroi suspense por meio de trauma, silencio, medo infantil e comunicacao com o invisivel. Sua revelacao final reorganiza toda a historia emocionalmente. E util para buscas sobre fantasmas, suspense sobrenatural, criancas assustadas, luto, psicologia, reviravoltas e comunicacao com mortos."
+  },
+  {
+    "id": 53,
+    "title": "The Pianist",
+    "description": "The Pianist acompanha Wladyslaw Szpilman, um pianista judeu tentando sobreviver em Varsovia durante a ocupacao nazista. O filme observa fome, destruicao, gueto, separacao familiar e a luta silenciosa para permanecer vivo. A musica aparece como memoria de humanidade em meio a violencia historica. E util para buscas sobre Holocausto, Segunda Guerra Mundial, sobrevivencia, musica classica, Varsovia, ocupacao nazista e resistencia individual."
+  },
+  {
+    "id": 54,
+    "title": "The Lives of Others",
+    "description": "The Lives of Others acompanha um agente da policia secreta da Alemanha Oriental encarregado de vigiar um dramaturgo e sua companheira. A escuta constante o aproxima da vida intima dos alvos e transforma sua compreensao de arte, poder e consciencia. O filme explora vigilancia estatal, medo, lealdade politica, corrupcao e empatia inesperada. E util para buscas sobre Stasi, espionagem, Alemanha Oriental, vigilancia, autoritarismo, artistas e dilemas morais."
+  },
+  {
+    "id": 55,
+    "title": "Oldboy",
+    "description": "Oldboy acompanha um homem sequestrado e mantido preso por anos sem explicacao, ate ser libertado e empurrado para uma busca brutal por vinganca. O misterio envolve memoria, culpa, manipulacao e uma revelacao devastadora. O filme combina violencia estilizada, tragedia, suspense psicologico e moralidade distorcida. E util para buscas sobre vinganca, cinema coreano, sequestro, prisao, reviravoltas sombrias, trauma e violencia coreografada."
+  },
+  {
+    "id": 56,
+    "title": "Pan's Labyrinth",
+    "description": "Pan's Labyrinth acompanha Ofelia, uma menina vivendo na Espanha franquista que encontra um mundo fantastico enquanto sua realidade se torna cada vez mais violenta. A fantasia convive com autoritarismo, guerra, obediencia, crueldade e resistencia. O filme usa criaturas, provas e simbolos para discutir inocencia, escolha moral e brutalidade historica. E util para buscas sobre fantasia sombria, guerra civil espanhola, infancia, fascismo, labirintos, contos de fadas e resistencia."
+  },
+  {
+    "id": 57,
+    "title": "No Country for Old Men",
+    "description": "No Country for Old Men acompanha um homem que encontra dinheiro de drogas e passa a ser perseguido por Anton Chigurh, um assassino guiado por uma logica fria e fatalista. Um xerife envelhecido observa a violencia crescer como algo que ele ja nao consegue compreender. O filme mistura faroeste moderno, crime, destino, silencio e ameaca moral. E util para buscas sobre dinheiro roubado, perseguicao, assassinos implacaveis, Texas, destino, violencia e neo-western."
+  },
+  {
+    "id": 58,
+    "title": "There Will Be Blood",
+    "description": "There Will Be Blood acompanha Daniel Plainview, um homem do petroleo cuja ambicao transforma negocios, familia e religiao em instrumentos de poder. Sua ascensao economica e marcada por exploracao, isolamento, rivalidade e uma sede de dominio cada vez mais destrutiva. O filme examina capitalismo, fe, ganancia, paternidade e vazio moral. E util para buscas sobre petroleo, ambicao, empresarios, religiao, corrupcao, America industrial e personagens obcecados."
+  },
+  {
+    "id": 59,
+    "title": "The Revenant",
+    "description": "The Revenant acompanha Hugh Glass, um explorador deixado para morrer em uma paisagem gelada e brutal depois de ser atacado. Movido por sobrevivencia e vinganca, ele atravessa natureza extrema, dor fisica e conflito colonial. O filme destaca resistencia corporal, isolamento, violencia e imagens intensas do territorio selvagem. E util para buscas sobre sobrevivencia, vinganca, exploradores, fronteira americana, natureza hostil, inverno e jornada fisica extrema."
+  },
+  {
+    "id": 60,
+    "title": "The Hateful Eight",
+    "description": "The Hateful Eight reune estranhos violentos em uma hospedaria isolada durante uma nevasca no pos-Guerra Civil americano. Desconfianca, racismo, recompensa, mentiras e vinganca transformam o espaco fechado em um jogo de tensao crescente. O filme usa dialogos longos, humor sombrio e violencia para revelar identidades e traicoes. E util para buscas sobre faroeste, nevasca, confinamento, cacadores de recompensa, paranoia, racismo e misterio criminal."
+  },
+  {
+    "id": 61,
+    "title": "Mad Max: Fury Road",
+    "description": "Mad Max: Fury Road acompanha Max e Furiosa em uma fuga atraves de um deserto pos-apocaliptico dominado por tirania, escassez de agua e guerra por recursos. A perseguicao quase continua envolve comboios, explosoes, sobreviventes e mulheres tentando escapar de controle reprodutivo. O filme transforma acao fisica em rebeliao visual intensa. E util para buscas sobre acao, perseguicoes de carro, pos-apocalipse, feminismo, sobrevivencia, caminhoes de guerra e rebeliao."
+  },
+  {
+    "id": 62,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "description": "Eternal Sunshine of the Spotless Mind acompanha Joel e Clementine depois que eles apagam as memorias de um relacionamento fracassado. Durante o procedimento, Joel revive momentos intimos e percebe que dor e beleza sao partes inseparaveis do amor. O filme usa memoria fragmentada, espacos surreais e ficcao cientifica para explorar romance, arrependimento, identidade e repeticao emocional. E util para buscas sobre apagamento de memoria, terminos, segundas chances, romance nao linear, luto e ficcao cientifica intimista."
+  },
+  {
+    "id": 63,
+    "title": "Groundhog Day",
+    "description": "Groundhog Day acompanha Phil Connors, um reporter meteorologico cinico preso no mesmo dia repetido infinitamente. O que comeca como inconveniente comico vira uma transformacao espiritual e etica por meio de egoismo, desespero, aprendizado, gentileza e aceitacao. O dia repetido se torna um laboratorio para mudanca pessoal. E util para buscas sobre loops temporais, repeticao, comedia, autoaperfeicoamento, licoes existenciais, romance e viver o mesmo dia de novo."
+  },
+  {
+    "id": 64,
+    "title": "Central Station",
+    "description": "Central Station acompanha Dora, uma professora aposentada que escreve cartas para clientes analfabetos na estacao Central do Brasil, no Rio de Janeiro. Ela conhece Josue, um menino cuja mae morre antes que eles possam procurar o pai ausente. A viagem dos dois pelo Brasil transforma desconfiança em cuidado e expõe solidao, pobreza, fe e reparacao emocional. E util para buscas sobre cinema brasileiro, road movies, alfabetizacao, maternidade substituta, infancia e realismo social."
+  },
+  {
+    "id": 65,
+    "title": "Elite Squad",
+    "description": "Elite Squad acompanha o capitao Nascimento e o BOPE, uma unidade policial de elite atuando no ambiente violento da guerra contra o trafico no Rio de Janeiro. O filme apresenta brutalidade policial, corrupcao, pressao de treinamento, esgotamento moral e os elos entre consumo de drogas da classe media e violencia nas favelas. Tambem acompanha recrutas moldados por uma instituicao que exige obediencia extrema. E util para buscas sobre BOPE, violencia policial, trafico de drogas, favelas cariocas, corrupcao, seguranca publica e conflito urbano."
+  },
+  {
+    "id": 66,
+    "title": "A Dog's Will",
+    "description": "A Dog's Will acompanha Joao Grilo e Chico, dois homens pobres do Nordeste brasileiro que sobrevivem com esperteza, improviso e pequenos golpes comicos. A historia mistura comedia popular, imaginario catolico, violencia de cangaceiros, critica social e um julgamento sobrenatural. O humor frequentemente esconde questoes serias sobre pobreza, pecado, misericordia e justica. E util para buscas sobre comedia brasileira, Ariano Suassuna, cultura nordestina, fe, personagens trapaceiros, perdao e narrativa popular."
+  },
+  {
+    "id": 67,
+    "title": "The Second Mother",
+    "description": "The Second Mother acompanha Val, uma trabalhadora domestica que mora no emprego em Sao Paulo e tem a vida organizada por fronteiras invisiveis de classe. Quando sua filha Jessica chega, ela desafia regras sobre espaco, educacao, intimidade e obediencia dentro da casa dos patroes. O filme observa a desigualdade por meio de gestos, quartos, comida, piscina e desconforto social. E util para buscas sobre trabalho domestico, relacoes de classe no Brasil, maternidade, mobilidade social, poder dentro da casa e drama politico silencioso."
+  },
+  {
+    "id": 68,
+    "title": "Bacurau",
+    "description": "Bacurau se passa em um pequeno povoado do sertao brasileiro que misteriosamente desaparece dos mapas digitais. Os moradores descobrem que corrupcao politica, violencia estrangeira e vigilancia tecnologica convergem contra eles. A comunidade responde defendendo memoria, territorio, dignidade e sobrevivencia coletiva. E util para buscas sobre cinema brasileiro de genero, faroeste politico, resistencia rural, violencia colonial, vigilancia, defesa comunitaria e thrillers especulativos."
+  },
+  {
+    "id": 69,
+    "title": "I'm Still Here",
+    "description": "I'm Still Here acompanha uma familia brasileira marcada pela violencia da ditadura militar e pelo desaparecimento forcado de um ente querido. O drama se concentra em memoria, ausencia, maternidade, resiliencia e na forma como o terror de Estado invade a vida domestica comum. Em vez de tratar politica como historia distante, mostra como o trauma continua por documentos, criancas, silencio e negacao publica. E util para buscas sobre ditadura brasileira, desaparecimento politico, direitos humanos, luto familiar, memoria e responsabilizacao historica."
+  },
+  {
+    "id": 70,
+    "title": "Inside Out",
+    "description": "Inside Out acompanha Riley, uma menina cuja mudanca para uma nova cidade desestabiliza o equilibrio emocional dentro de sua mente. Alegria, Tristeza, Raiva, Medo e Nojinho navegam por memorias, ilhas de personalidade e o doloroso processo de crescer. O filme defende que a tristeza nao e fracasso, mas parte necessaria da empatia e da maturidade emocional. E util para buscas sobre animacao Pixar, emocoes, psicologia infantil, memoria, mudanca familiar e amadurecimento."
+  },
+  {
+    "id": 71,
+    "title": "Toy Story",
+    "description": "Toy Story imagina brinquedos que ganham vida quando humanos nao estao olhando. Woody, o boneco cowboy favorito de Andy, se sente ameacado por Buzz Lightyear, um novo patrulheiro espacial que acredita ser um heroi real. A rivalidade entre eles vira amizade depois que ambos se separam de casa e precisam cooperar. E util para buscas sobre Pixar, brinquedos, infancia, ciume, amizade, identidade e medo de ser substituido."
+  },
+  {
+    "id": 72,
+    "title": "Up",
+    "description": "Up acompanha Carl Fredricksen, um viuvo idoso que ergue sua casa com baloes para cumprir uma promessa feita a falecida esposa. Russell, um jovem escoteiro solitario, entra acidentalmente na viagem para a America do Sul. A aventura combina luto, memoria, amizade entre geracoes, caes falantes, exploradores perdidos e a descoberta de que a vida ainda pode continuar depois da perda. E util para buscas sobre envelhecimento, aventura, baloes, viuvez, familia encontrada e animacao emocional."
+  },
+  {
+    "id": 73,
+    "title": "WALL-E",
+    "description": "WALL-E se passa em uma Terra abandonada e coberta de lixo, onde um pequeno robo continua compactando residuos muito depois da partida da humanidade. Sua curiosidade e solidao mudam quando ele conhece EVE, uma sonda elegante em busca de sinais de vida vegetal. O filme usa pouco dialogo para explorar colapso ambiental, consumismo, tecnologia, amor e possibilidade de renovacao humana. E util para buscas sobre robos, ecologia, espaco, lixo, narrativa silenciosa e animacao distopica."
+  },
+  {
+    "id": 74,
+    "title": "Finding Nemo",
+    "description": "Finding Nemo acompanha Marlin, um peixe-palhaco ansioso que atravessa o oceano depois que seu filho Nemo e capturado por um mergulhador. Com Dory, uma companheira esquecida e otimista, Marlin encontra tubaroes, tartarugas, aguas-vivas e a vastidao da vida marinha. A jornada ensina confianca, coragem, desapego e a diferenca entre protecao e controle. E util para buscas sobre aventura no oceano, relacoes entre pais e filhos, peixes, perda de memoria, Pixar e animacao familiar."
+  },
+  {
+    "id": 75,
+    "title": "Ratatouille",
+    "description": "Ratatouille acompanha Remy, um rato com talento culinario extraordinario que sonha cozinhar em Paris. Ele forma uma parceria secreta com Linguini, um funcionario atrapalhado de restaurante, enquanto se esconde de um mundo que rejeita ratos em cozinhas. O filme explora criatividade, paladar, classe, critica, mentoria e a ideia de que talento pode surgir de lugares inesperados. E util para buscas sobre culinaria, Paris, chefs, restaurantes, critica gastronomica, ambicao e identidade artistica."
+  },
+  {
+    "id": 76,
+    "title": "Shrek",
+    "description": "Shrek acompanha um ogro solitario cujo pantano e invadido por criaturas de contos de fadas expulsas por Lord Farquaad. Para recuperar sua privacidade, Shrek aceita resgatar a princesa Fiona com a ajuda de um burro falante. O filme parodia contos de fadas classicos enquanto questiona padroes de beleza, exclusao social, amor e autoaceitacao. E util para buscas sobre comedia animada, ogros, princesas, satira de contos de fadas, animais falantes e romance subvertido."
+  },
+  {
+    "id": 77,
+    "title": "How to Train Your Dragon",
+    "description": "How to Train Your Dragon acompanha Hiccup, um jovem viking que nao se encaixa na cultura de sua aldeia, baseada em matar dragoes. Depois de ferir um dragao chamado Toothless, ele escolhe empatia em vez de violencia e descobre que o inimigo temido pode ser compreendido. A amizade dos dois desafia a tradicao e muda o futuro da comunidade. E util para buscas sobre dragoes, vikings, amizade, deficiencia, treinamento, coragem e superacao de preconceitos herdados."
+  },
+  {
+    "id": 78,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "description": "Spider-Man: Into the Spider-Verse acompanha Miles Morales quando ele ganha poderes de aranha e conhece Pessoas-Aranha alternativas de universos paralelos. O filme usa linguagem visual de quadrinhos, energia de grafite, humor e peso emocional para contar uma historia sobre legado e autoconfianca. Miles precisa aprender que se tornar Homem-Aranha significa encontrar seu proprio ritmo em vez de copiar Peter Parker. E util para buscas sobre multiverso, estilo de animacao, super-herois, identidade, familia e representatividade."
+  },
+  {
+    "id": 79,
+    "title": "Avengers: Endgame",
+    "description": "Avengers: Endgame acompanha os herois sobreviventes depois que o estalo de Thanos apaga metade de toda a vida. A tentativa de desfazer a catastrofe envolve viagem no tempo, luto, sacrificio, reencontros e uma batalha final que encerra muitos arcos de personagens. Homem de Ferro, Capitao America, Thor, Hulk, Viuva Negra e outros enfrentam tanto ameacas cosmicas quanto finais pessoais. E util para buscas sobre Marvel, assaltos no tempo, finais de super-herois, sacrificio, luto e batalhas em equipe."
+  },
+  {
+    "id": 80,
+    "title": "Avengers: Infinity War",
+    "description": "Avengers: Infinity War acompanha Thanos enquanto ele procura as Joias do Infinito para impor sua visao violenta de equilibrio cosmico. Herois na Terra, no espaco, em Wakanda e em Titan tentam impedi-lo enquanto estao separados por distancia, estrategia e conflitos passados. O filme e estruturado em torno da jornada do vilao e termina com uma rara derrota em grande escala para os herois. E util para buscas sobre Thanos, Joias do Infinito, cruzamentos da Marvel, Wakanda, ameacas cosmicas e historias apocalipticas de super-herois."
+  },
+  {
+    "id": 81,
+    "title": "Black Panther",
+    "description": "Black Panther acompanha T'Challa quando ele se torna rei de Wakanda, uma nacao africana tecnologicamente avancada e escondida do mundo. A chegada de Killmonger desafia o isolamento de Wakanda e levanta questoes sobre ancestralidade, historia colonial, responsabilidade global e poder politico. O filme combina acao de super-heroi com drama real, design afrofuturista, legado familiar e conflito ideologico. E util para buscas sobre Wakanda, vibranium, futurismo africano, realeza, identidade e politica da Marvel."
+  },
+  {
+    "id": 82,
+    "title": "Guardians of the Galaxy",
+    "description": "Guardians of the Galaxy acompanha um grupo de criminosos e excluidos que acidentalmente se tornam uma equipe ao lidar com um poderoso artefato cosmico. Peter Quill, Gamora, Drax, Rocket e Groot formam uma familia disfuncional encontrada por meio de piadas, perdas, musica e perigo compartilhado. O filme mistura aventura espacial, comedia irreverente, historias emocionais e cancoes pop dos anos 1970. E util para buscas sobre historias espaciais da Marvel, familia encontrada, herois desajustados, mixtapes, viloes cosmicos e acao com humor."
+  },
+  {
+    "id": 83,
+    "title": "Deadpool",
+    "description": "Deadpool acompanha Wade Wilson, um mercenario que ganha cura acelerada depois de um experimento cruel, mas fica fisicamente marcado. Ele se torna Deadpool, um anti-heroi sarcastico que quebra a quarta parede enquanto busca vinganca e tenta se reconectar com Vanessa. O filme mistura violencia grafica, comedia adulta, romance, parodia autoconsciente de super-herois e piadas rapidas. E util para buscas sobre anti-herois, regeneracao, mercenarios, humor de quarta parede, violencia de quadrinhos e filmes de super-heroi nao convencionais."
+  },
+  {
+    "id": 84,
+    "title": "Logan",
+    "description": "Logan acompanha um Wolverine envelhecido em um futuro sombrio onde mutantes quase desapareceram. Ele cuida de um Professor Xavier em deterioracao enquanto protege Laura, uma menina com poderes e traumas parecidos com os seus. O filme usa imagens de faroeste e estrutura de road movie para contar uma historia sobre exaustao, paternidade, violencia, legado e morte. E util para buscas sobre Wolverine, X-Men, criancas mutantes, herois envelhecidos, sacrificio, lacos familiares e drama de super-heroi mais bruto."
+  },
+  {
+    "id": 85,
+    "title": "V for Vendetta",
+    "description": "V for Vendetta se passa em uma Gra-Bretanha futura governada por um regime autoritario construido sobre medo, vigilancia, propaganda e repressao. V, um revolucionario mascarado, ataca o Estado enquanto conduz Evey por um doloroso despertar sobre coragem e liberdade. O filme usa simbolismo teatral, memoria politica e a mascara de Guy Fawkes para explorar resistencia. E util para buscas sobre distopia, fascismo, revolucao, Estados de vigilancia, rebeldes mascarados, liberdades civis e vinganca politica."
+  },
+  {
+    "id": 86,
+    "title": "The Grand Budapest Hotel",
+    "description": "The Grand Budapest Hotel acompanha Gustave H., um concierge refinado, e Zero, seu jovem mensageiro, em um misterio comico envolvendo heranca, assassinato e uma pintura valiosa. O filme e narrado como memoria dentro de memoria, dando a historia um tom nostalgico e melancolico sob sua elegancia. Seu estilo visual preciso, composicoes simetricas, cenario europeu ficticio e dialogos rapidos sao centrais para sua identidade. E util para buscas sobre Wes Anderson, hoteis, tramas de heranca, amizade, simetria visual e comedia sofisticada."
+  },
+  {
+    "id": 87,
+    "title": "La La Land",
+    "description": "La La Land acompanha Mia, uma atriz aspirante, e Sebastian, um pianista de jazz, enquanto perseguem sonhos artisticos em Los Angeles. O romance dos dois cresce por meio de musica, danca, testes, frustracao profissional e ambicao compartilhada. O filme celebra musicais classicos de Hollywood enquanto pergunta se amor e sonhos profissionais conseguem sobreviver ao sucesso. E util para buscas sobre jazz, romance musical, Los Angeles, audicoes, sacrificio artistico, finais agridoce e sonhadores."
+  },
+  {
+    "id": 88,
+    "title": "A Star Is Born",
+    "description": "A Star Is Born acompanha Ally, uma cantora talentosa descoberta por Jackson Maine, um musico famoso lutando contra vicio e autodestruicao. A historia de amor deles e moldada por fama, ciume, performance, inseguranca e pelo movimento desigual de suas carreiras. Enquanto Ally sobe, Jackson perde o controle da vida publica e privada. E util para buscas sobre drama musical, celebridade, alcoolismo, romance, mentoria, apresentacoes ao vivo e historias de amor tragicas."
+  },
+  {
+    "id": 89,
+    "title": "The Wolf of Wall Street",
+    "description": "The Wolf of Wall Street acompanha Jordan Belfort, um corretor que constroi riqueza por meio de fraude, manipulacao, vendas agressivas e excesso. O filme apresenta o crime financeiro como um carnaval de ganancia, drogas, status, espetaculo e vazio moral. Sua energia e comica e escandalosa, mas o comportamento retratado e predatorio e destrutivo. E util para buscas sobre Wall Street, golpes com acoes, corrupcao, dinheiro, crime de colarinho branco, cultura de vendas e excesso capitalista."
+  },
+  {
+    "id": 90,
+    "title": "Focus",
+    "description": "Focus acompanha Nicky, um golpista experiente que ensina Jess tecnicas de roubo, distracao, manipulacao e golpes de confianca. A relacao deles mistura atracao e desconfiança porque ambos entendem que qualquer sinal emocional pode fazer parte de um golpe. A trama passa por apostas, eventos esportivos, alvos ricos e reversoes de controle. E util para buscas sobre golpistas, crime romantico, engano, batedores de carteira, apostas de alto risco e historias de roubo elegantes."
+  },
+  {
+    "id": 91,
+    "title": "Ocean's Eleven",
+    "description": "Ocean's Eleven acompanha Danny Ocean enquanto ele monta uma equipe especializada para roubar varios cassinos de Las Vegas ao mesmo tempo. Cada integrante traz uma habilidade distinta envolvendo tecnologia, acrobacia, explosivos, vigilancia, imitacao ou engenharia social. O prazer do filme vem de planejamento, timing, charme, distracao e da satisfacao de ver um assalto complicado se encaixar. E util para buscas sobre roubos em cassino, equipes, Las Vegas, furtos inteligentes, jogos de engano e comedia criminal elegante."
+  },
+  {
+    "id": 92,
+    "title": "Rise of the Planet of the Apes",
+    "description": "Rise of the Planet of the Apes acompanha o cientista Will Rodman enquanto um tratamento experimental aumenta a inteligencia de primatas. Caesar, um chimpanze criado em ambiente humano, vive amor, cativeiro, traicao e despertar antes de liderar uma rebeliao. O filme transforma a origem de uma franquia em historia sobre empatia, testes em animais, ambicao cientifica e nascimento de uma nova sociedade. E util para buscas sobre primatas inteligentes, laboratorios, experimentos geneticos, Caesar, rebeliao e etica entre humanos e animais."
+  },
+  {
+    "id": 93,
+    "title": "District 9",
+    "description": "District 9 se passa em uma Johannesburgo alternativa onde alienigenas encalhados sao forcados a viver em um distrito segregado e militarizado. Wikus, um burocrata que ajuda a despeja-los, e exposto a biotecnologia alienigena e comeca a se transformar fisica e socialmente no tipo de ser que antes controlava. O filme usa estilo de falso documentario para explorar xenofobia, ecos do apartheid, violencia corporativa e horror corporal. E util para buscas sobre alienigenas, segregacao, Africa do Sul, campos de refugiados, transformacao e ficcao cientifica social."
+  },
+  {
+    "id": 94,
+    "title": "Ex Machina",
+    "description": "Ex Machina acompanha Caleb, um programador convidado a avaliar Ava, uma inteligencia artificial humanoide criada pelo bilionario isolado Nathan. O teste se torna uma disputa psicologica sobre consciencia, desejo, vigilancia, manipulacao e controle. Cada conversa levanta duvidas sobre quem esta estudando quem e o que liberdade significa para um ser artificial. E util para buscas sobre IA, robotica, teste de Turing, consciencia de maquina, genero, isolamento e tecnologia etica."
+  },
+  {
+    "id": 95,
+    "title": "Arrival",
+    "description": "Arrival acompanha a linguista Louise Banks enquanto ela tenta se comunicar com visitantes extraterrestres cuja linguagem desafia as suposicoes humanas sobre o tempo. Enquanto governos temem a guerra, Louise se aproxima dos heptapodes por meio de paciencia, traducao, simbolos e confianca. O filme conecta linguagem, luto, maternidade, memoria, livre-arbitrio e experiencia nao linear. E util para buscas sobre comunicacao alienigena, linguistica, primeiro contato, percepcao do tempo, diplomacia, drama de ficcao cientifica e escolha emocional."
+  },
+  {
+    "id": 96,
+    "title": "Get Out",
+    "description": "Get Out acompanha Chris, um fotografo negro visitando pela primeira vez a familia branca e rica de sua namorada. A tensao social constrangedora vira horror quando ele descobre uma conspiracao racista escondida sob polidez liberal e admiracao. O filme usa hipnose, controle corporal, satira e suspense para examinar objetificacao, apropriacao e violencia racial. E util para buscas sobre horror social, racismo, paranoia, relacionamentos inter-raciais, visitas familiares e o Sunken Place."
+  },
+  {
+    "id": 97,
+    "title": "Vertigo",
+    "description": "Vertigo acompanha Scottie, um ex-detetive com acrofobia que fica obcecado por uma mulher que foi contratado para seguir. Seu desejo se transforma em controle, reconstrucao, fantasia e uma tentativa condenada de recriar a imagem de um amor perdido. O filme mistura misterio romantico com perturbacao psicologica, simbolismo de cores, locacoes de San Francisco e manipulacao de identidade. E util para buscas sobre Hitchcock, obsessao, vertigem, duplos, vigilancia, culpa e thrillers romanticos tragicos."
+  },
+  {
+    "id": 98,
+    "title": "Cinema Paradiso",
+    "description": "Cinema Paradiso acompanha Salvatore, um cineasta que relembra a amizade de infancia com Alfredo, o projecionista de uma pequena cidade italiana. O cinema local se torna lugar de educacao, comunidade, fantasia, censura, primeiro amor e fuga emocional. A historia atravessa nostalgia, mentoria, partida e a dor doce da memoria. E util para buscas sobre amor pelo cinema, Italia, projecionistas, infancia, cidades pequenas, nostalgia e amadurecimento agridoce."
+  },
+  {
+    "id": 99,
+    "title": "Life Is Beautiful",
+    "description": "Life Is Beautiful acompanha Guido, um pai judeu italiano que usa humor e imaginacao para proteger o filho dos horrores de um campo de concentracao. O filme comeca como comedia romantica e gradualmente se torna uma historia de guerra sobre amor, performance, negacao e protecao. Guido transforma o terror em jogo para preservar a inocencia da crianca pelo maior tempo possivel. E util para buscas sobre Holocausto, paternidade, comedia e tragedia, inocencia, sacrificio e sobrevivencia emocional."
+  },
+  {
+    "id": 100,
+    "title": "The Intouchables",
+    "description": "The Intouchables acompanha Philippe, um homem rico tetraplegico, e Driss, um jovem de origem trabalhadora contratado como seu cuidador. A amizade dos dois cresce por meio de humor, honestidade, musica, risco e recusa em reduzir a deficiencia a pena. O filme contrasta classe social e limitacao fisica enquanto enfatiza autonomia, companheirismo e renovado apetite pela vida. E util para buscas sobre amizade improvavel, deficiencia, cuidado, diferenca de classe, comedia dramatica francesa e recuperacao emocional."
+  }
+]
